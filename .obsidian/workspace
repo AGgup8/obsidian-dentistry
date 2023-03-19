@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "8f6bb54d65fb2653",
+    "type": "split",
+    "children": [
+      {
+        "id": "05ab7d2e7cd71807",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vesiculobullous Lesions.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f63976cd7e214e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f818048ea7ffac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc22499f250d0aef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc4d44d2adec4815",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71ce8013c4a33baf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "92591ef89794e930",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1de753c39e4345a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8e88f1eda41e2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vesiculobullous Lesions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73e926c0a9cf7478",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vesiculobullous Lesions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8eaf0d9fad6cd08c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2d1f4bb13dc0d12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vesiculobullous Lesions.md"
+              }
+            }
+          },
+          {
+            "id": "41326cdda869bed3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5,
+    "collapsed": true
+  },
+  "active": "05ab7d2e7cd71807",
+  "lastOpenFiles": [
+    "Oral Pigmentation.md",
+    "Vesiculobullous Lesions.md",
+    "Pemphigus Vulgaris.md",
+    "Orofical Fungal Infections.md",
+    "Hepatic Disease.md",
+    "Cysts.md",
+    "Bullous Pemphigoid.md",
+    "Paeds.md",
+    "Melanoma.md",
+    "Rests of Serres.md"
+  ]
+}

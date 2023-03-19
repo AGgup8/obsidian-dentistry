@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "8f6bb54d65fb2653",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8419fd6381291af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "594a35025d245806",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f63976cd7e214e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f818048ea7ffac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc22499f250d0aef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc4d44d2adec4815",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71ce8013c4a33baf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "92591ef89794e930",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1de753c39e4345a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8e88f1eda41e2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "prosthodontics/The Dahl Concept.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73e926c0a9cf7478",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "prosthodontics/The Dahl Concept.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8eaf0d9fad6cd08c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2d1f4bb13dc0d12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "prosthodontics/The Dahl Concept.md"
+              }
+            }
+          },
+          {
+            "id": "41326cdda869bed3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "594a35025d245806",
+  "lastOpenFiles": [
+    "prosthodontics/Implants.md",
+    "prosthodontics/1. Prosthodontics.md",
+    "Prosthodontics/1. Prosthodontics.html",
+    "Prosthodontics/Abutment.html",
+    "prosthodontics/Abutment.md",
+    "Prosthodontics/Balanced Occlusion.html",
+    "prosthodontics/Balanced Occlusion.md",
+    "Prosthodontics/Adhesion.html",
+    "prosthodontics/Adhesion.md",
+    "Prosthodontics/Bridges.html",
+    "prosthodontics/Bridges.md",
+    "Prosthodontics/Cohesion.html",
+    "prosthodontics/Cohesion.md",
+    "Prosthodontics/Connector.html",
+    "prosthodontics/Connector.md",
+    "Prosthodontics/Connectors.html",
+    "prosthodontics/Connectors.md",
+    "Prosthodontics/Curve of Spee.html",
+    "prosthodontics/Curve of Spee.md",
+    "Prosthodontics/Curve of Wilson.html",
+    "prosthodontics/Curve of Wilson.md",
+    "prosthodontics/Fixed Prosthodontics.md",
+    "prosthodontics/Interocclusal Rest Distance.md",
+    "prosthodontics/Kennedy Classification.md",
+    "prosthodontics/Lingualised Occlusion.md",
+    "prosthodontics/Occlusal Vertical Dimension.md",
+    "prosthodontics/Pontic.md",
+    "prosthodontics/Proximal Plate.md",
+    "prosthodontics/Removable Prosthodontics.md",
+    "prosthodontics/Replacing Missing Teeth.md",
+    "prosthodontics/Resin-Bonded Bridges.md",
+    "prosthodontics/Rest Vertical Dimension.md",
+    "prosthodontics/Rests.md",
+    "prosthodontics/Retainer.md",
+    "prosthodontics/Retention.md",
+    "prosthodontics/Stability.md",
+    "prosthodontics/Horseshow Connector.png",
+    "prosthodontics/Curve of Wilson.png",
+    "prosthodontics/Curve of Spee.png",
+    "prosthodontics/Crown-to-Root Ratio.png",
+    "prosthodontics/Complete Palatal Connector.png",
+    "prosthodontics/Ante's Law.png",
+    "prosthodontics/Hue, chroma and value.png",
+    "prosthodontics/Lingual Plate Connector.png",
+    "prosthodontics/Lingual Bar Connector.png",
+    "prosthodontics/Palatal Strap Connector.png"
+  ]
+}

@@ -1,0 +1,2 @@
+# Emergency Management of a Bleeding Patient
+Patients should be transferred to a hospital for haematological management including the administration of vitamin K by slow intravenous injection or fresh frozen plasma.
