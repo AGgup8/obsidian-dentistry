@@ -1,8 +1,3 @@
----
-share_updated: 2023-03-19T12:17:06+00:00
-share_link: https://file.obsidianshare.com/456366afcd4eac9c184a90a4539bc797.html
----
-
 The abutment is the tooth to which the bridge attaches to. All teeth should be assessed before using them as abutments for bridges. Not all teeth should be used as abutments, and some have a better prognosis than others.  ^6e46e6
 
 ### Endodontically treated teeth

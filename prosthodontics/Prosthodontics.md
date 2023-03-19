@@ -1,8 +1,3 @@
----
-share_updated: 2023-03-19T12:22:47+00:00
-share_link: https://file.obsidianshare.com/224b8a1a685ff22167d832de2bfcfc0b.html
----
-
 ### Introduction
 Prosthodontics is the replacement of teeth, hard tissues, and soft tissues with prosthesis.
 [[Replacing Missing Teeth]]

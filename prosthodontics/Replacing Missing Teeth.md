@@ -1,8 +1,3 @@
----
-share_updated: 2023-03-19T12:21:20+00:00
-share_link: https://file.obsidianshare.com/cc7beae4b27763ce8e47020502b8dfe6.html
----
-
 ***Do you need to replace the tooth?***
 
 **F**unction (speech, chewing)

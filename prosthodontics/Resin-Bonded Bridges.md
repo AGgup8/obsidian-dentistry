@@ -1,8 +1,3 @@
----
-share_updated: 2023-03-19T12:21:22+00:00
-share_link: https://file.obsidianshare.com/a7dd6098a717fcdfff7bc7452e9418ed.html
----
-
 A fixed partial denture that is luted to tooth structures, primarily enamel, which has been etched to provide micromechanical retention for the resin luting agent.
 
 ## Components

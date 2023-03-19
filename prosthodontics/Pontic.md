@@ -1,8 +1,3 @@
----
-share_updated: 2023-03-19T12:21:10+00:00
-share_link: https://file.obsidianshare.com/d2a5a7dd4a77ce52dbe4b4a14498b940.html
----
-
 The bridge pontic is the artificial tooth that replaces the missing tooth. It is usually porcelain fused to metal substructure. ^f4daff
 
 ## Designs

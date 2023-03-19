@@ -1,8 +1,3 @@
----
-share_updated: 2023-03-19T12:21:33+00:00
-share_link: https://file.obsidianshare.com/44bfd334ebc44a096e98e8699605e176.html
----
-
 * **Hue** is the colour family
 * **Chroma** is the saturation or intensity of the colour
 * **Value** is the lightness or darkness - ***most important***

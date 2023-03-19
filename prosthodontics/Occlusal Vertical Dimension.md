@@ -1,8 +1,3 @@
----
-share_updated: 2023-03-19T12:21:08+00:00
-share_link: https://file.obsidianshare.com/c503b2c1a085a86fa080102b5e0de8f7.html
----
-
 Occlusal vertical dimension (OVD) is the distance between the nose and chin when biting together.
 
 **Excessive OVD can cause:**

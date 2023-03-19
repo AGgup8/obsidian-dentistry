@@ -1,8 +1,3 @@
----
-share_updated: 2023-03-19T12:21:02+00:00
-share_link: https://file.obsidianshare.com/95efda583e5887fb7f6af2da553d9a57.html
----
-
 ## Classes
 | Class I                    | Class II                    | Class III                           | Class IV                           |
 | -------------------------- | --------------------------- | ----------------------------------- | ---------------------------------- |
