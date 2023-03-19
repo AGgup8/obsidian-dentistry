@@ -1,5 +1,4 @@
 
-
 | Virus                          | Presentation                       | Description                                                                                                                        | Treatment                                                      |
 | ------------------------------ | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | Herpes Simplex Virus 1         | Primary Herpetic Gingivostomatitis | Diffuse erythematous gingivitis, multiple 2-3mm vesicles on keratinised tissue that rupture to leave painful herpetic ulcers       | Acyclovir 200mg 5 times a day for 5 days                       |

@@ -1,4 +1,4 @@
-# Viral
+## Viral
 
 | Type                           | Description                                                                                                                                              | Management                                                                |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -7,13 +7,13 @@
 | Varicella zoster virus (HHV 3) | Herpes virus causing chickenpox, shingles, ophthalmicus, Ramsey Hunt syndrome                                                                            | Topical acyclovir during prodromal phase                                  |
 | Kaposi's sarcoma (HHV 8)       | Purple nodules which may ulcerate that typically affect the intraoral palate and periodontal tissues but may be anywhere on the skin or mucous membranes |                                                                           |
 
-# Bacterial
+## Bacterial
 
 | Type    | Description                                                                                                            | Management                                                       |
 | ------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | Rosacea | Chronic inflammatory facial dermatosis characterised by erythema and pustules over light-exposed and the "muzzle" area | Topical metronidazole gel, oral tetracycline, persists for years |
 
-# Inflammatory
+## Inflammatory
 
 | Type                                                                | Description                                                                                                   | Management                                                                                    |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -24,7 +24,7 @@
 | Discoid lupus erythematosus                                         | Coin-shaped, scaly and crusty plaques on sun-exposed skin which become atrophic, alopecia                     | Topical or intralesional corticosteroids, antimalarials                                       |
 | Systemic lupus erythematosus                                        | Autoimmune disease affecting vascular and connective tissues, characterised by a malar "butterfly" rash       |                                                                                               |
 
-# Developmental
+## Developmental
 
 | Type                   | Description                                                                                                   | Management                                   |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -33,7 +33,7 @@
 | Addison's disease      | Intraoral blue-black pigmentation and cutaneous diffuse bronzing with hyperpigmentation of scars and flexures | Lifelong steroid hormone replacement therapy |
 |                        |                                                                                                               |                                              |
 
-# Sun-related
+## Sun-related
 
 | Type              | Description                                                                                               | Management                                            |
 | ----------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -41,7 +41,7 @@
 | Actinic elastosis | Prolonged sun damage causes yellowing, thickening and wrinkling skin                                      | Sun protection, smoking cessation                     |
 | Actinic keratosis | Single or multiple discrete scaly hyperkeratotic lesions                                                  | Curettage, excision or application of 5- fluorouracil |
 
-# Malignant
+## Malignant
 
 | Type                             | Predisposing factors                                                                                              | Description                                                                             | Management                                         |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------- |

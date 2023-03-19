@@ -1,4 +1,4 @@
-# Lichen planus
+## Lichen planus
 
 **Demographic:** 4th-8th decade, women, Europeans
 
@@ -25,7 +25,7 @@
 
 **Cutaneous Lichen Planus:** purple pruritic papules on flexor surfaces (Koebner phenomenon)., surface network of fine white "Wickham's striae" striations.
 
-# Lichenoid reaction
+## Lichenoid reaction
 
 **Aetiology:** drug or dental material induced (may have asymmetric distribution if due to reaction from local material)
 Drugs: beta-blockers, ACE inhibitors, diuretics, methyl dopa, oral hypoglycaemics, NSAID's, gold salts, penicillamine, antimalarials, allopurinol
@@ -38,7 +38,7 @@ Drugs: beta-blockers, ACE inhibitors, diuretics, methyl dopa, oral hypoglycaemic
 
 **Management:** take drug history, consider patch testing, management as for lichen planus until it resolves (OHI, monitor lesions, attend dentist regularly)
 
-# Systemic lupus erythematosus
+## Systemic lupus erythematosus
 
 Discoid lupus erythematosus
 

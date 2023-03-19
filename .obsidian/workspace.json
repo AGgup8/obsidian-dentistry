@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cysts.md",
+                "file": "Oral Pigmentation.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cysts.md",
+                "file": "Oral Pigmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cysts.md",
+                "file": "Oral Pigmentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cysts.md"
+                "file": "Oral Pigmentation.md"
               }
             }
           },
@@ -158,33 +158,33 @@
   },
   "active": "594a35025d245806",
   "lastOpenFiles": [
-    "Dentigerous cysts.md",
-    "Radicular cysts.md",
-    "Dentigerous cyst.png",
+    "Vesiculobullous Lesions.md",
+    "Orofacial Fungal Infections.md",
+    "Viral Mucosal Infections.md",
+    "Oral Pigmentation.md",
+    "Mucocutaneous Disease.md",
+    "Facial Rashes.md",
     "Cysts.md",
+    "Home.md",
+    "Odontogenic Tumours.md",
+    "Ectomesenchyme.md",
+    "Ectoderm.md",
+    "Radicular cysts.md",
+    "Dentigerous cysts.md",
+    "Dentigerous cyst.png",
     "Anti-Coagulant Therapy.md",
     "Anti-Platelet Therapy.md",
     "Bleeding Disorders.md",
     "Bullous Pemphigoid.md",
-    "Ectoderm.md",
-    "Ectomesenchyme.md",
-    "Facial Rashes.md",
-    "Home.md",
     "Hepatic Disease.md",
     "Emergency Management of a Bleeding Patient.md",
     "Enucleation.md",
     "Internal hydraulic pressure.md",
-    "Mucocutaneous Disease.md",
     "Leukaemia.md",
     "Local Haemostatic Measures.md",
     "Lymphoma.md",
     "Mediastinal Irradation.md",
     "Novel Oral Anticoagulants.md",
-    "Odontogenic Tumours.md",
-    "Oral Pigmentation.md",
-    "Orofacial Fungal Infections.md",
-    "Pemphigus Vulgaris.md",
-    "Post-Operative Haemorrage.md",
     "prosthodontics/Complete Palatal Connector.png",
     "prosthodontics/Ante's Law.png",
     "netlify.toml",
