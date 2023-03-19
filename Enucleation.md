@@ -1,1 +1,0 @@
-Enucleation is removal of a lesion with the lining from the surrounding capsule, usually followed by wound closure.

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
+                "file": "Cysts.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Cysts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Cysts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Cysts.md"
               }
             }
           },
@@ -158,32 +158,33 @@
   },
   "active": "594a35025d245806",
   "lastOpenFiles": [
-    "prosthodontics/Connectors.md",
-    "prosthodontics/Abutment.md",
-    "prosthodontics/Tooth Whitening.md",
-    "prosthodontics/The Dahl Concept.md",
-    "prosthodontics/Support.md",
-    "prosthodontics/Stability.md",
-    "prosthodontics/Shade Selection.md",
-    "prosthodontics/Retention.md",
-    "prosthodontics/Retainer.md",
-    "prosthodontics/Rests.md",
-    "prosthodontics/Rest Vertical Dimension.md",
-    "prosthodontics/Resin-Bonded Bridges.md",
-    "prosthodontics/Replacing Missing Teeth.md",
-    "prosthodontics/Removable Prosthodontics.md",
-    "prosthodontics/Proximal Plate.md",
-    "prosthodontics/Prosthodontics.md",
-    "prosthodontics/Pontic.md",
-    "prosthodontics/Occlusal Vertical Dimension.md",
-    "prosthodontics/Lingualised Occlusion.md",
-    "prosthodontics/Kennedy Classification.md",
-    "prosthodontics/Interocclusal Rest Distance.md",
-    "prosthodontics/Implants.md",
-    "prosthodontics/Fixed Prosthodontics.md",
-    "prosthodontics/Curve of Wilson.md",
-    "prosthodontics/Curve of Spee.md",
-    "prosthodontics/Connector.md",
+    "Dentigerous cysts.md",
+    "Radicular cysts.md",
+    "Dentigerous cyst.png",
+    "Cysts.md",
+    "Anti-Coagulant Therapy.md",
+    "Anti-Platelet Therapy.md",
+    "Bleeding Disorders.md",
+    "Bullous Pemphigoid.md",
+    "Ectoderm.md",
+    "Ectomesenchyme.md",
+    "Facial Rashes.md",
+    "Home.md",
+    "Hepatic Disease.md",
+    "Emergency Management of a Bleeding Patient.md",
+    "Enucleation.md",
+    "Internal hydraulic pressure.md",
+    "Mucocutaneous Disease.md",
+    "Leukaemia.md",
+    "Local Haemostatic Measures.md",
+    "Lymphoma.md",
+    "Mediastinal Irradation.md",
+    "Novel Oral Anticoagulants.md",
+    "Odontogenic Tumours.md",
+    "Oral Pigmentation.md",
+    "Orofacial Fungal Infections.md",
+    "Pemphigus Vulgaris.md",
+    "Post-Operative Haemorrage.md",
     "prosthodontics/Complete Palatal Connector.png",
     "prosthodontics/Ante's Law.png",
     "netlify.toml",
@@ -202,7 +203,6 @@
     "prosthodontics/Crown-to-Root Ratio.png",
     "prosthodontics/Hue, chroma and value.png",
     "prosthodontics/Lingual Plate Connector.png",
-    "prosthodontics/Lingual Bar Connector.png",
-    "prosthodontics/Palatal Strap Connector.png"
+    "prosthodontics/Lingual Bar Connector.png"
   ]
 }
