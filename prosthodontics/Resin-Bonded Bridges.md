@@ -33,6 +33,8 @@ The [[Connector]] of a resin-bonded bridge needs a **minimum height of 3 mm** an
 6. Position bridge and remove excess cement
 7. Apply Oxyguard and keep in place for 4 minutes
 
+ Cementing the RBB restoration 'high' on the abutment tooth does not increase the risk of abutment teeth proclining or the restoration debonding. It has the advantages of reducing tooth preparation, maximising connector height, maximising occlusal coverage and avoiding contact on the pontic.
+
 ## Failure
 * Pontic is involved in guidance during mandibular excursive movements.
 

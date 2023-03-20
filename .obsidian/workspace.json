@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2769afec0e710e49",
+        "id": "7851b9478d3c4bd8",
         "type": "tabs",
         "children": [
           {
-            "id": "3c4d74d11176cb32",
+            "id": "f1561d11cac05966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "prosthodontics/The Dahl Concept.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "prosthodontics/The Dahl Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "prosthodontics/The Dahl Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "prosthodontics/The Dahl Concept.md"
               }
             }
           },
@@ -156,14 +156,24 @@
       "templates:Insert template": false
     }
   },
-  "active": "3c4d74d11176cb32",
+  "active": "f1561d11cac05966",
   "lastOpenFiles": [
+    "prosthodontics/Resin-Bonded Bridges.md",
+    "prosthodontics/The Dahl Concept.md",
+    "paediatric/Paediatric Soft Tissue Disease.md",
     "oral medicine/Viral Mucosal Infections.md",
+    "paediatric/Paediatric Periodontital Disease.md",
+    "Home.md",
+    "paediatric/Paediatric.md",
+    "periodontology/Non Plaque-Induced Gingival Disease.md",
+    "periodontology/Plaque-Induced Gingivitis.md",
+    "periodontology",
+    "general",
+    "paediatric",
     "oral medicine/Vesiculobullous Lesions.md",
     "oral medicine/Oral Medicine.md",
     "oral medicine",
     "oral medicine/Mucocutaneous Disease.md",
-    "Home.md",
     "oral medicine/Facial Rashes.md",
     "oral medicine/Cysts.md",
     "oral medicine/Oral Pigmentation.md",
@@ -179,13 +189,6 @@
     "Bleeding Disorders.md",
     "Bullous Pemphigoid.md",
     "Hepatic Disease.md",
-    "Emergency Management of a Bleeding Patient.md",
-    "Enucleation.md",
-    "Internal hydraulic pressure.md",
-    "Leukaemia.md",
-    "Local Haemostatic Measures.md",
-    "Lymphoma.md",
-    "Mediastinal Irradation.md",
     "prosthodontics/Complete Palatal Connector.png",
     "prosthodontics/Ante's Law.png",
     "netlify.toml",
@@ -194,9 +197,6 @@
     "Prosthodontics/Balanced Occlusion.html",
     "Prosthodontics/Adhesion.html",
     "Prosthodontics/Bridges.html",
-    "Prosthodontics/Cohesion.html",
-    "Prosthodontics/Connector.html",
-    "Prosthodontics/Connectors.html",
     "prosthodontics/Horseshow Connector.png",
     "prosthodontics/Curve of Wilson.png",
     "prosthodontics/Curve of Spee.png",
