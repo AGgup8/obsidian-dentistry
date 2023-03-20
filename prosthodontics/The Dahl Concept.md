@@ -1,4 +1,4 @@
-The Dahl method works through a combination of intrusion (40%) of anterior teeth and extrusion (60%) of posterior teeth. It is commonly used to *increase interocclusal space* or to *increase occlusal vertical dimension* when restoring tooth surface loss. The Dahl technique can be used to make *modest* and *controlled* changes to the occlusion.
+The Dahl method works through a combination of intrusion (40%) of anterior teeth and extrusion (60%) of posterior teeth. It is commonly used to **increase interocclusal space** or to **increase occlusal vertical dimension** when restoring tooth surface loss. The Dahl technique can be used to make **modest** and **controlled** changes to the occlusion.
 
 
 ## How to create space
