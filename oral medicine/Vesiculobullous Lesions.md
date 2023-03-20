@@ -1,13 +1,13 @@
 ## Acute or chronic
 ### Acute
-| Type                                             | Description                                                                          |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| Herpes simplex (HHV-1)                           | 2-3 mm diameter vesicles on keratinised tissue, fever, lymphadenopathy,              |
-| Varicella zoster (HHV-3)                         | Chickenpox                                                                           |
-| Herpes zoster (HHV-3)                            | Localised pain and itching, vesicular rash affecting a single dermatome              |
-| Herpangina (HHV 1, HHV2, Coxsackievirus A)       | Diffuse erythematous pharyngitis and dysphagia                                       |
-| Hand, food and mouth disease (coxsackie virus A) | Vesicular eruptions in the mouth and papulovesicular lesions on the hands and feet   |
-| Erythema multiforme                              | Painful bullae or erythematous bases that break into bleeding ulcers and form crusts |
+| Type                                             | Description                                                                                                             |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| Herpes simplex (HHV-1)                           | 2-3 mm diameter vesicles on keratinised tissue which may coalesce and rupture, leaving ulcers which crust over and heal |
+| Varicella zoster (HHV-3)                         | Chickenpox                                                                                                              |
+| Herpes zoster (HHV-3)                            | Localised pain and itching, vesicular rash affecting a single dermatome                                                 |
+| Herpangina (HHV 1, HHV2, Coxsackievirus A)       | Diffuse erythematous pharyngitis and dysphagia                                                                          |
+| Hand, food and mouth disease (coxsackie virus A) | Vesicular eruptions in the mouth and papulovesicular lesions on the hands and feet                                      |
+| Erythema multiforme                              | Painful bullae or erythematous bases that break into bleeding ulcers and form crusts                                    |
 
 ### Chronic
 | Type                                   | Description                                                               |

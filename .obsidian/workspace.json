@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "942c144b9fdfd8ee",
+        "id": "2769afec0e710e49",
         "type": "tabs",
         "children": [
           {
-            "id": "4783ab7234ed1707",
+            "id": "3c4d74d11176cb32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oral medicine/Vesiculobullous Lesions.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oral medicine/Vesiculobullous Lesions.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oral medicine/Vesiculobullous Lesions.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oral medicine/Vesiculobullous Lesions.md"
+                "file": "Home.md"
               }
             }
           },
@@ -156,15 +156,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "fc22499f250d0aef",
+  "active": "3c4d74d11176cb32",
   "lastOpenFiles": [
-    "oral medicine",
     "oral medicine/Viral Mucosal Infections.md",
+    "oral medicine/Vesiculobullous Lesions.md",
+    "oral medicine/Oral Medicine.md",
+    "oral medicine",
     "oral medicine/Mucocutaneous Disease.md",
     "Home.md",
     "oral medicine/Facial Rashes.md",
     "oral medicine/Cysts.md",
-    "oral medicine/Vesiculobullous Lesions.md",
     "oral medicine/Oral Pigmentation.md",
     "oral medicine/Orofacial Fungal Infections.md",
     "oral medicine/Odontogenic Tumours.md",
@@ -196,7 +197,6 @@
     "Prosthodontics/Cohesion.html",
     "Prosthodontics/Connector.html",
     "Prosthodontics/Connectors.html",
-    "Prosthodontics/Curve of Spee.html",
     "prosthodontics/Horseshow Connector.png",
     "prosthodontics/Curve of Wilson.png",
     "prosthodontics/Curve of Spee.png",
