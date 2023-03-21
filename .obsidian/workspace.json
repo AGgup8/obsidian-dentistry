@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7851b9478d3c4bd8",
+        "id": "c97425dd995f642b",
         "type": "tabs",
         "children": [
           {
-            "id": "f1561d11cac05966",
+            "id": "89ea9aaa1c83517c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paediatric/Paediatric Soft Tissue Disease.md",
+                "file": "paediatric/Molar Incisor Hypomineralisation (MIH).md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paediatric/Paediatric Soft Tissue Disease.md",
+                "file": "paediatric/Molar Incisor Hypomineralisation (MIH).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paediatric/Paediatric Soft Tissue Disease.md",
+                "file": "paediatric/Molar Incisor Hypomineralisation (MIH).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paediatric/Paediatric Soft Tissue Disease.md"
+                "file": "paediatric/Molar Incisor Hypomineralisation (MIH).md"
               }
             }
           },
@@ -156,17 +156,20 @@
       "templates:Insert template": false
     }
   },
-  "active": "fc22499f250d0aef",
+  "active": "89ea9aaa1c83517c",
   "lastOpenFiles": [
-    "prosthodontics/The Dahl Concept.md",
-    "prosthodontics/Resin-Bonded Bridges.md",
     "paediatric/Paediatric Soft Tissue Disease.md",
-    "oral medicine/Viral Mucosal Infections.md",
-    "paediatric/Paediatric Periodontital Disease.md",
-    "Home.md",
+    "paediatric/Molar Incisor Hypomineralisation (MIH).md",
     "paediatric/Paediatric.md",
+    "paediatric/Paediatric Periodontital Disease.md",
+    "periodontology/Periodontal Disease Risk Factors.md",
+    "prosthodontics/Bridges.md",
     "periodontology/Non Plaque-Induced Gingival Disease.md",
     "periodontology/Plaque-Induced Gingivitis.md",
+    "prosthodontics/The Dahl Concept.md",
+    "prosthodontics/Resin-Bonded Bridges.md",
+    "oral medicine/Viral Mucosal Infections.md",
+    "Home.md",
     "periodontology",
     "general",
     "paediatric",
@@ -186,9 +189,6 @@
     "Dentigerous cyst.png",
     "Anti-Coagulant Therapy.md",
     "Anti-Platelet Therapy.md",
-    "Bleeding Disorders.md",
-    "Bullous Pemphigoid.md",
-    "Hepatic Disease.md",
     "prosthodontics/Complete Palatal Connector.png",
     "prosthodontics/Ante's Law.png",
     "netlify.toml",

@@ -8,13 +8,7 @@
 
 ## Components
 
-**[[Abutment]]:** ![[Abutment#^6e46e6]]
-
-**[[Retainer]]:** ![[Retainer#^bf19d1]]
-
-**[[Pontic]]:** ![[Pontic#^f4daff]]
-
-**[[Connector]]:** ![[Connector#^f62047]]
+**[[Abutment]]**, **[[Retainer]]**, **[[Pontic]]**, **[[Connector]]**
 
 ## Design considerations
 * Simple as possible
