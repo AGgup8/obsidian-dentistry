@@ -36,7 +36,7 @@ Traumatic hypoplasia is associated with a history of trauma to the primary prede
 **Fluoride toothpaste >1450 ppm** and **Professional fluoride varnish application**
 
 **Long-term use of CPP-ACP containing products**
-CPP-ACP allows remineralisation of the whole depth of the MIH lesions, whilst fluoride usually remineralises the surface of lesions.
+CPP-ACP improves remineralisation throughout the whole depth of MIH lesions, whilst fluoride tends to remineralise the surface layer.
 
 **Fissure seal MIH molars**
 Resin-based fissure sealants are preferred when the surface of the enamel is intact. Glass ionomer cements are recommended when the tooth is **partially erupted**, **hypersensitive** or have **post-eruption breakdown**.
