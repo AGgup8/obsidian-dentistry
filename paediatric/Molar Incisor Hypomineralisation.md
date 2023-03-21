@@ -21,13 +21,13 @@ Fluorosis lesions have a bilateral symmetrical pattern, unlike MIH which has asy
 Amelogenesis imperfecta affects **all teeth of both dentitions**, and the patient usually has a **family history**.
 
 **Enamel hypoplasia**
-The borders of enamel hypoplasia lesions are smooth and regular, whereas post-eruption MIH lesions are sharp and irregular.
+The borders of enamel hypoplasia lesions are **smooth and regular**, whereas post-eruption MIH lesions are sharp and irregular.
 
 **White spot lesion**
 White spot lesions are early enamel lesions. They have a more chalky, matt and more opaque appearance compared to the adjacent sound enamel.
 
 **Traumatic hypoplasia**
-Traumatic hypoplasia is associated with a history of trauma to the primary predecessor tooth (e.g. periapical infection). It has a very varied clinical presentation. It is usually limited to one tooth and asymmetrical.
+Traumatic hypoplasia is associated with a **history of trauma to the primary predecessor tooth** (e.g. periapical infection). It has a very varied clinical presentation. It is usually limited to **one tooth** and asymmetrical.
 
 ## Treatment
 
@@ -48,13 +48,13 @@ Unlike normal fissure sealants, MIH molars should be filled up to cusp level rat
 Thought to be more suitable for severe cases. It is not yet strongly recommended.
 
 **Restorations**
-Composite
+Resin composite is the recommended material. Glass ionomer cements should only be considered as intermediate restorations if moisture control can not be achieved.
 
 **Full or partial coverage**
 Performed metal crowns (PMCs) are preferred
 
 **Extraction**
-Extract before eruption of the secondary permanent molars, the best time to extract mandibular first permanent molars is **during the calcification of the bifurcation of the second permanent molars (8-10 years old)**.
+Extract before the eruption of the secondary permanent molars, the best time to extract mandibular first permanent molars is **during the calcification of the bifurcation of the second permanent molars (8-10 years old)**.
 
 ### Incisors
 
@@ -73,4 +73,4 @@ Remove yellow-brown staining
 Large enamel defects with exposed dentine or chipped enamel
 
 **Porcelain veneers**
-Ages 18+
+Only indicated for **patients aged 18+** when the gingival margin has matured

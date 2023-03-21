@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paediatric/Molar Incisor Hypomineralisation (MIH).md",
-                "mode": "source",
+                "file": "paediatric/Molar Incisor Hypomineralisation.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paediatric/Molar Incisor Hypomineralisation (MIH).md",
+                "file": "paediatric/Molar Incisor Hypomineralisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paediatric/Molar Incisor Hypomineralisation (MIH).md",
+                "file": "paediatric/Molar Incisor Hypomineralisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paediatric/Molar Incisor Hypomineralisation (MIH).md"
+                "file": "paediatric/Molar Incisor Hypomineralisation.md"
               }
             }
           },
@@ -159,7 +159,7 @@
   "active": "89ea9aaa1c83517c",
   "lastOpenFiles": [
     "paediatric/Paediatric Soft Tissue Disease.md",
-    "paediatric/Molar Incisor Hypomineralisation (MIH).md",
+    "paediatric/Molar Incisor Hypomineralisation.md",
     "paediatric/Paediatric.md",
     "paediatric/Paediatric Periodontital Disease.md",
     "periodontology/Periodontal Disease Risk Factors.md",

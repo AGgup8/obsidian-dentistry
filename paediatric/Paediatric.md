@@ -2,4 +2,4 @@
 
 [[Paediatric Soft Tissue Disease]]
 
-[[Molar Incisor Hypomineralisation (MIH)]]
+[[Molar Incisor Hypomineralisation]]
