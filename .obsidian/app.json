@@ -108,7 +108,16 @@
     "hypomineralised",
     "ionomer",
     "cuspal",
-    "Microabrasion"
+    "Microabrasion",
+    "mucoelastic",
+    "Impregum",
+    "polyvinylsiloxane",
+    "neo-colloid",
+    "Occlusal",
+    "Occlusal",
+    "Facebow",
+    "facebow",
+    " interocclusa"
   ],
   "pdfExportSettings": {
     "includeName": true,
@@ -116,5 +125,6 @@
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
-  }
+  },
+  "newFileLocation": "current"
 }

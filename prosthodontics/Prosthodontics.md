@@ -1,3 +1,5 @@
+# Theory
+
 ### Introduction
 Prosthodontics is the replacement of teeth, hard tissues, and soft tissues with prosthesis.
 [[Replacing Missing Teeth]]
@@ -46,3 +48,10 @@ The best indicator for success is the ridge. A wide, broad ridge provides the be
 [[Guide Plane]]
 [[Proximal Plate]]
 [[Clasps]]
+
+# Labs
+
+[[How to make a denture]]
+
+[[Impression Materials]]
+[[Plaster]]

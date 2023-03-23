@@ -13,13 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paediatric/Molar Incisor Hypomineralisation.md",
+                "file": "prosthodontics/Prosthodontics.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "e8824cdb2a2d548a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prosthodontics/How to make a denture.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7b756afde3cc4ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prosthodontics/Stability.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paediatric/Molar Incisor Hypomineralisation.md",
+                "file": "prosthodontics/How to make a denture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paediatric/Molar Incisor Hypomineralisation.md",
+                "file": "prosthodontics/How to make a denture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paediatric/Molar Incisor Hypomineralisation.md"
+                "file": "prosthodontics/How to make a denture.md"
               }
             }
           },
@@ -142,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,10 +181,20 @@
       "templates:Insert template": false
     }
   },
-  "active": "89ea9aaa1c83517c",
+  "active": "e8824cdb2a2d548a",
   "lastOpenFiles": [
-    "paediatric/Paediatric Soft Tissue Disease.md",
+    "prosthodontics/Stability.md",
+    "prosthodontics/Support.md",
+    "prosthodontics/Retention.md",
+    "prosthodontics/How to make a denture.md",
+    "prosthodontics/Plaster.md",
+    "prosthodontics/Prosthodontics.md",
+    "prosthodontics/Shade Selection.md",
+    "prosthodontics/Abutment.md",
+    "prosthodontics/Impression Materials.md",
+    "oral medicine/Cysts.md",
     "paediatric/Molar Incisor Hypomineralisation.md",
+    "paediatric/Paediatric Soft Tissue Disease.md",
     "paediatric/Paediatric.md",
     "paediatric/Paediatric Periodontital Disease.md",
     "periodontology/Periodontal Disease Risk Factors.md",
@@ -178,17 +213,7 @@
     "oral medicine",
     "oral medicine/Mucocutaneous Disease.md",
     "oral medicine/Facial Rashes.md",
-    "oral medicine/Cysts.md",
-    "oral medicine/Oral Pigmentation.md",
-    "oral medicine/Orofacial Fungal Infections.md",
-    "oral medicine/Odontogenic Tumours.md",
-    "Ectomesenchyme.md",
-    "Ectoderm.md",
-    "Radicular cysts.md",
-    "Dentigerous cysts.md",
     "Dentigerous cyst.png",
-    "Anti-Coagulant Therapy.md",
-    "Anti-Platelet Therapy.md",
     "prosthodontics/Complete Palatal Connector.png",
     "prosthodontics/Ante's Law.png",
     "netlify.toml",

@@ -3,7 +3,6 @@ A cyst is a pathological cavity containing fluid, semi-fluid or gas, **but not p
 ‘A closed, sac-like pocket of tissue that can form anywhere in the body. It may be filled with fluid, air, pus, or other material. Most cysts are benign (not cancer).’ *(Surgical management of Benign & Cystic Lesions, 2022-23)*
 
 ## Classification
-**Cysts of the jaw**
 
 | **Odontogenic**                       |                                |                             | **Non-odontogenic** |                      |
 |:------------------------------------- | ------------------------------ | --------------------------- |:------------------- | -------------------- |

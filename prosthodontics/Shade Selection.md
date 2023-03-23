@@ -1,8 +1,10 @@
-* **Hue** is the colour family
-* **Chroma** is the saturation or intensity of the colour
-* **Value** is the lightness or darkness - ***most important***
+**Hue** is the colour family
 
-![[Hue, chroma and value.png|400]]
+**Chroma** is the saturation or intensity of the colour
+
+**Value** is the lightness or darkness - ***most important***
+
+![[Hue, chroma and value.png|300]]
 
 ## Effect of light source
 

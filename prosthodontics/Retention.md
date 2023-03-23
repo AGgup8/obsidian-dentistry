@@ -1,4 +1,4 @@
-Retention is the resistance to vertical **dislodging** forces, in contrast to [[Support]] which is resistance to vertical **seating** forces.
+Retention is the resistance to **vertical dislodging** forces, in contrast to [[Support]] which is resistance to **vertical seating** forces.
 
 The peripheral seal provides retention. The peripheral seal is formed by surface tension, which is a combination of [[Adhesion]] between the oral tissues, saliva and denture base, and [[Cohesion]] of saliva.
 
