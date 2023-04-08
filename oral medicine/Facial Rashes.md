@@ -1,11 +1,11 @@
 ## Viral
 
-| Type                                              | Description                                                                                                                                              | Management                                          |
-| ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| Recurrent herpes labialis (HHV 1)                 | Secondary herpes infection affecting vermilion border                                                                                                    | Topical acyclovir during prodromal phase            |
-| Varicella zoster virus (HHV 3)                    | Herpes virus causing chickenpox, shingles, ophthalmicus, Ramsey Hunt syndrome                                                                            | Topical acyclovir during prodromal phase            |
-| Eczema herpeticum (HHV 1, HHV2, Coxsackievirus A) | Dissemination of herpes simplex virus on a background of pre-existing eczema                                                                             | Antivirals (oral acyclovir 400–800mg 5 times daily) |
-| Kaposi's sarcoma (HHV 8)                          | Purple nodules which may ulcerate that typically affect the intraoral palate and periodontal tissues but may be anywhere on the skin or mucous membranes |                                                     |
+| Type                                              | Description                                                                                                                                              | Management                                                                                                      |
+| ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Recurrent herpes labialis (HHV 1)                 | Secondary herpes infection affecting vermilion border                                                                                                    | Eliminate local aggravating factors, topical acyclovir during prodromal phase, analgesics, antiseptic mouthwash |
+| Varicella zoster virus (HHV 3)                    | Herpes virus causing chickenpox, shingles (Herpes zoster), ophthalmicus, Ramsey Hunt syndrome                                                            | Eliminate local aggravating factors, topical acyclovir during prodromal phase, analgesics, antiseptic mouthwash |
+| Eczema herpeticum (HHV 1, HHV2, Coxsackievirus A) | Dissemination of herpes simplex virus on a background of pre-existing eczema                                                                             | Antivirals (oral acyclovir 400–800mg 5 times daily)                                                             |
+| Kaposi's sarcoma (HHV 8)                          | Purple nodules which may ulcerate that typically affect the intraoral palate and periodontal tissues but may be anywhere on the skin or mucous membranes |                                                                                                                 |
 
 ## Bacterial
 

@@ -1,0 +1,1 @@
+Pulp necrosis is a condition where the pulp tissue dies due to injury, infection, or other factors. Without treatment, pulp necrosis will nearly always lead to periapical pathology. Teeth affected by pulp necrosis will need removal of the deal pulp tissue by root canal treatment.

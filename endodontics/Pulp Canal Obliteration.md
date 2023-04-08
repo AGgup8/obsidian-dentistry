@@ -1,0 +1,1 @@
+Pulp canal obliteration is a condition where the pulp chamber becomes filled with hard tissue, usually dentine, leading to a reduction or complete obliteration of the pulp canal.

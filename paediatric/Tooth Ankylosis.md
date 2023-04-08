@@ -1,0 +1,1 @@
+Tooth ankylosis is a condition where the root of a tooth root becomes fused to the alveolar bone, causing it to lose mobility and become immovable.

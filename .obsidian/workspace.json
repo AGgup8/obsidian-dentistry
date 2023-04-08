@@ -4,48 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c97425dd995f642b",
+        "id": "9f7fc8fa52fe2232",
         "type": "tabs",
         "children": [
           {
-            "id": "89ea9aaa1c83517c",
+            "id": "ea487e5a3e97b3e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prosthodontics/Prosthodontics.md",
+                "file": "oral medicine/Facial Rashes.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e8824cdb2a2d548a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prosthodontics/How to make a denture.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7b756afde3cc4ade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prosthodontics/Stability.md",
-                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prosthodontics/How to make a denture.md",
+                "file": "oral medicine/Facial Rashes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prosthodontics/How to make a denture.md",
+                "file": "oral medicine/Facial Rashes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prosthodontics/How to make a denture.md"
+                "file": "oral medicine/Facial Rashes.md"
               }
             }
           },
@@ -168,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,38 +157,40 @@
       "templates:Insert template": false
     }
   },
-  "active": "e8824cdb2a2d548a",
+  "active": "ea487e5a3e97b3e5",
   "lastOpenFiles": [
+    "paediatric/Dental Trauma.md",
+    "paediatric/Dental Trauma to the Primary Dentition.md",
+    "oral surgery/Bleeding Disorders.md",
+    "oral surgery",
+    "paediatric/Extrusion Luxation.md",
+    "paediatric/Intrusion Luxation.md",
+    "paediatric/Lateral Luxation.md",
+    "paediatric/Avulsion.md",
+    "paediatric/Subluxation.md",
+    "paediatric/Concussion.md",
+    "paediatric/Molar Incisor Hypomineralisation.md",
+    "endodontics/External Resorption.md",
+    "endodontics/Pulp Necrosis.md",
+    "endodontics/Internal Replacement Resorption.md",
+    "endodontics/Pulp Canal Obliteration.md",
+    "endodontics/Internal Inflammatory Resorption.md",
+    "endodontics",
+    "paediatric/Paediatric.md",
+    "paediatric/Tooth Ankylosis.md",
     "prosthodontics/Stability.md",
+    "prosthodontics/Prosthodontics.md",
+    "prosthodontics/How to make a denture.md",
     "prosthodontics/Support.md",
     "prosthodontics/Retention.md",
-    "prosthodontics/How to make a denture.md",
     "prosthodontics/Plaster.md",
-    "prosthodontics/Prosthodontics.md",
     "prosthodontics/Shade Selection.md",
     "prosthodontics/Abutment.md",
     "prosthodontics/Impression Materials.md",
-    "oral medicine/Cysts.md",
-    "paediatric/Molar Incisor Hypomineralisation.md",
-    "paediatric/Paediatric Soft Tissue Disease.md",
-    "paediatric/Paediatric.md",
-    "paediatric/Paediatric Periodontital Disease.md",
-    "periodontology/Periodontal Disease Risk Factors.md",
-    "prosthodontics/Bridges.md",
-    "periodontology/Non Plaque-Induced Gingival Disease.md",
-    "periodontology/Plaque-Induced Gingivitis.md",
-    "prosthodontics/The Dahl Concept.md",
-    "prosthodontics/Resin-Bonded Bridges.md",
-    "oral medicine/Viral Mucosal Infections.md",
-    "Home.md",
     "periodontology",
     "general",
     "paediatric",
-    "oral medicine/Vesiculobullous Lesions.md",
-    "oral medicine/Oral Medicine.md",
     "oral medicine",
-    "oral medicine/Mucocutaneous Disease.md",
-    "oral medicine/Facial Rashes.md",
     "Dentigerous cyst.png",
     "prosthodontics/Complete Palatal Connector.png",
     "prosthodontics/Ante's Law.png",
@@ -220,8 +198,6 @@
     "Prosthodontics/1. Prosthodontics.html",
     "Prosthodontics/Abutment.html",
     "Prosthodontics/Balanced Occlusion.html",
-    "Prosthodontics/Adhesion.html",
-    "Prosthodontics/Bridges.html",
     "prosthodontics/Horseshow Connector.png",
     "prosthodontics/Curve of Wilson.png",
     "prosthodontics/Curve of Spee.png",
