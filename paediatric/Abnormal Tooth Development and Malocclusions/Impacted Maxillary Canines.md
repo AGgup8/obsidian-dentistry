@@ -16,7 +16,7 @@ Impaction should be suspected when the maxillary canine is **not palpable in the
 
 #### Palpation
 * Palpate the buccal sulcus to identify the canine bulge.
-* **Check the mobility** of deciduous canines and lateral incisors. Mobility may suggest root resorption from the impacted canine. 
+* **Check the mobility** of deciduous canines and lateral incisors. Mobility may suggest [[External Resorption|root resorption]] from the impacted canine. 
 
 ## Radiographic assessment
 * Radiographs should be taken when there is a noticeable difference in the eruption of the maxillary canines between the right and the left side, or where there is asymmetry on palpation.
@@ -27,8 +27,8 @@ Radiographs using the **[[parallax technique]]** is an effective method of ident
 ## Complications
 * Dentigerous cyst formation
 * Ankylosis
-* Internal resorption of the impacted canine
-* External resorption of the adjacent (usually the incisors) or impacted tooth
+* [[Internal resorption]] of the impacted canine
+* [[External resorption]] of the adjacent (usually the incisors) or impacted tooth
 * Displacement of adjacent teeth and loss of arch length
 
 ## Management

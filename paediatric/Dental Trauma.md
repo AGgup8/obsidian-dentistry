@@ -26,8 +26,8 @@ Root
 [[Concussion]]
 [[Subluxation]]
 [[Extrusion Luxation]]
-[[Lateral luxation]]
-[[Intrusion luxation]]
+[[Lateral Luxation]]
+[[Intrusion Luxation]]
 [[Avulsion]]
 
 ### Oral mucosa
@@ -40,7 +40,7 @@ Abrasion
 ### Pulp
 The survival of the pulp after trauma is influenced by the **severity of damage to the blood supply**, **area and time of exposure** and **stage of root development**.
 
-The 5 sequelae for the pulp following trauma are: health, [[Pulp Canal Obliteration]], [[Internal Inflammatory Resorption]], [[Internal Replacement Resorption]], and [[Pulp Necrosis]].
+The 5 sequelae for the pulp following trauma are: health, [[Pulp Canal Obliteration]], [[Internal Resorption|Internal Inflammatory Resorption]], [[Internal Resorption|Internal Replacement Resorption]], and [[Pulp Necrosis]].
 
 ### Periodontal
 Periodontal tissues will undergo normal healing or [[External Resorption]].

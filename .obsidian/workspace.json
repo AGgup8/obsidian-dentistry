@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9f7fc8fa52fe2232",
+        "id": "26f98145a43d89da",
         "type": "tabs",
         "children": [
           {
-            "id": "ea487e5a3e97b3e5",
+            "id": "92a96943ae21fe46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "oral medicine/Facial Rashes.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b54545f18e16541b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paediatric/Impacted Maxillary Canines.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "49d31f4eb6e762d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paediatric/Impacted Maxillary Incisor.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "357412ae15341d75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paediatric/Impacted Teeth.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "92591ef89794e930",
@@ -127,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paediatric/Impacted Maxillary Incisor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paediatric/Impacted Maxillary Incisor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "paediatric/Impacted Maxillary Incisor.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,36 +148,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49d31f4eb6e762d3",
+  "active": "92a96943ae21fe46",
   "lastOpenFiles": [
-    "paediatric/Impacted Maxillary Canines.md",
-    "paediatric/Impacted Maxillary Incisor.md",
-    "paediatric/Impacted Teeth.md",
-    "paediatric/Parallax Technique.md",
-    "oral medicine/Facial Rashes.md",
     "paediatric/Dental Trauma.md",
-    "paediatric/Dental Trauma to the Primary Dentition.md",
-    "oral surgery/Bleeding Disorders.md",
-    "oral surgery",
-    "paediatric/Extrusion Luxation.md",
-    "paediatric/Intrusion Luxation.md",
-    "paediatric/Lateral Luxation.md",
-    "paediatric/Avulsion.md",
-    "paediatric/Subluxation.md",
-    "paediatric/Concussion.md",
     "paediatric/Molar Incisor Hypomineralisation.md",
+    "oral surgery/Bleeding Disorders.md",
+    "paediatric/Abnormal Tooth Development and Malocclusions.md",
+    "paediatric/Parallax Technique.md",
+    "paediatric/Paediatric Soft Tissue Disease.md",
+    "paediatric/Paediatric Periodontital Disease.md",
+    "Paediatric.md",
+    "paediatric/Trauma",
+    "paediatric/Abnormal Tooth Development and Malocclusions",
+    "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
+    "Complications.md",
+    "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
     "endodontics/External Resorption.md",
-    "endodontics/Pulp Necrosis.md",
+    "paediatric/Abnormal Tooth Development and Malocclusions/Dental Ankylosis.md",
+    "oral medicine/Cysts.md",
+    "endodontics/Internal Resorption.md",
     "endodontics/Internal Replacement Resorption.md",
-    "endodontics/Pulp Canal Obliteration.md",
     "endodontics/Internal Inflammatory Resorption.md",
+    "oral medicine/Facial Rashes.md",
+    "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
+    "paediatric/Trauma/Dental Trauma to the Primary Dentition.md",
+    "oral surgery",
+    "paediatric/Trauma/Extrusion Luxation.md",
+    "paediatric/Trauma/Intrusion Luxation.md",
+    "paediatric/Trauma/Lateral Luxation.md",
+    "paediatric/Trauma/Avulsion.md",
+    "paediatric/Trauma/Subluxation.md",
+    "paediatric/Trauma/Concussion.md",
     "endodontics",
-    "paediatric/Paediatric.md",
-    "paediatric/Tooth Ankylosis.md",
-    "prosthodontics/Stability.md",
-    "prosthodontics/Prosthodontics.md",
-    "prosthodontics/How to make a denture.md",
-    "prosthodontics/Support.md",
     "periodontology",
     "general",
     "paediatric",
@@ -237,8 +189,6 @@
     "prosthodontics/Ante's Law.png",
     "netlify.toml",
     "Prosthodontics/1. Prosthodontics.html",
-    "Prosthodontics/Abutment.html",
-    "Prosthodontics/Balanced Occlusion.html",
     "prosthodontics/Horseshow Connector.png",
     "prosthodontics/Curve of Wilson.png",
     "prosthodontics/Curve of Spee.png",

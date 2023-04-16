@@ -1,1 +1,0 @@
-Internal replacement resorption is a pathological process where the dentine within the root canal is replaced by bone-like tissue.

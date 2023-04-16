@@ -5,4 +5,4 @@ Normal PDL, affects small areas
 Granulation tissue and radiolucency
 
 ## Replacement
-[[Tooth Ankylosis]]
+[[Dental Ankylosis]]
