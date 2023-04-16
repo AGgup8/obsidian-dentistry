@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "26f98145a43d89da",
+        "id": "50973301083ac83d",
         "type": "tabs",
         "children": [
           {
-            "id": "92a96943ae21fe46",
+            "id": "bb3bc37487d5e9be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "37386d70e1b0d781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "92591ef89794e930",
@@ -101,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,9 +148,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37386d70e1b0d781",
+  "active": "fc22499f250d0aef",
   "lastOpenFiles": [
     "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
+    "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
+    "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
     "paediatric/Dental Trauma.md",
     "paediatric/Molar Incisor Hypomineralisation.md",
     "oral surgery/Bleeding Disorders.md",
@@ -183,10 +161,9 @@
     "paediatric/Paediatric Soft Tissue Disease.md",
     "paediatric/Paediatric Periodontital Disease.md",
     "Paediatric.md",
-    "paediatric/Trauma",
+    "paediatric/Dental Trauma",
     "paediatric/Abnormal Tooth Development and Malocclusions",
     "Complications.md",
-    "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
     "endodontics/External Resorption.md",
     "paediatric/Abnormal Tooth Development and Malocclusions/Dental Ankylosis.md",
     "oral medicine/Cysts.md",
@@ -194,15 +171,14 @@
     "endodontics/Internal Replacement Resorption.md",
     "endodontics/Internal Inflammatory Resorption.md",
     "oral medicine/Facial Rashes.md",
-    "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
-    "paediatric/Trauma/Dental Trauma to the Primary Dentition.md",
+    "paediatric/Dental Trauma/Dental Trauma to the Primary Dentition.md",
     "oral surgery",
-    "paediatric/Trauma/Extrusion Luxation.md",
-    "paediatric/Trauma/Intrusion Luxation.md",
-    "paediatric/Trauma/Lateral Luxation.md",
-    "paediatric/Trauma/Avulsion.md",
-    "paediatric/Trauma/Subluxation.md",
-    "paediatric/Trauma/Concussion.md",
+    "paediatric/Dental Trauma/Extrusion Luxation.md",
+    "paediatric/Dental Trauma/Intrusion Luxation.md",
+    "paediatric/Dental Trauma/Lateral Luxation.md",
+    "paediatric/Dental Trauma/Avulsion.md",
+    "paediatric/Dental Trauma/Subluxation.md",
+    "paediatric/Dental Trauma/Concussion.md",
     "endodontics",
     "periodontology",
     "general",

@@ -19,17 +19,17 @@ Impaction should be suspected when the maxillary canine is **not palpable in the
 * **Check the mobility** of deciduous canines and lateral incisors. Mobility may suggest [[External Resorption|root resorption]] from the impacted canine. 
 
 ## Radiographic assessment
-* Radiographs should be taken when there is a noticeable difference in the eruption of the maxillary canines between the right and the left side, or where there is asymmetry on palpation.
-* It may also be useful to take a radiograph in cases where there is delayed eruption of the lateral incisor or if there is a significant buccal proclination.
+Radiographs should be taken when:
+* there is a noticeable difference in the eruption of the maxillary canines between the right and the left side
+* or where there is asymmetry on palpation
+* It may also be useful to take a radiograph in cases where there is delayed eruption of the lateral incisor or if there is a significant buccal proclination
+* Radiographic procedures prior to the age of 10–11 years are usually of little benefit in terms of the knowledge gained
 
-Radiographs using the **[[parallax technique]]** is an effective method of identifying the position of maxillary impacted canines. Cone Beam Computed Tomography (CBCT) scans can also be very useful in identification and localisation of an impacted maxillary canine, along with the presence/absence of **root resorption of adjacent teeth**. Lateral cephalograms can be useful to locate impacted canines and its relationship to other facial structures, but are typically only used when they are needed for further treatment planning.
+Radiographs using the **[[parallax technique]]** is an effective method of identifying the position of maxillary impacted canines. Research has shown that the horizontal parallax technique (upper standard occlusal and periapical, or two periapicals) is more reliable than vertical parallax in localising unerupted canines.
 
-## Complications
-* Dentigerous cyst formation
-* Ankylosis
-* [[Internal resorption]] of the impacted canine
-* [[External resorption]] of the adjacent (usually the incisors) or impacted tooth
-* Displacement of adjacent teeth and loss of arch length
+Cone Beam Computed Tomography (CBCT) scans can also be very useful in identification and localisation of an impacted maxillary canine, along with the presence/absence of **root resorption of adjacent teeth**.
+
+Lateral cephalograms can be useful to locate impacted canines and its relationship to other facial structures, but are typically only used when they are needed for further treatment planning.
 
 ## Management
 * Early detection of impacted maxillary canines is key in helping to achieve good outcomes.
@@ -37,11 +37,21 @@ Radiographs using the **[[parallax technique]]** is an effective method of ident
 * If impaction is identified, an orthodontic opinion should be sought to gain advice.
 
 ## Treatment
-* Impacted canines may be left in-situ. This is usually if the patient is happy or declines treatment. If this is the case, review bi-annually and warn the patient of potential complications.
-* **Interceptive treatment:** the **deciduous canine is extracted** to allow for spontaneous eruption of the permanent successor.
-* **Surgical exposure and orthodontic alignment:** when interceptive treatment has failed, a **surgical exposure and orthodontic alignment** of the impacted canine may be the treatment of choice in certain cases. **The NICE guidelines favour expose and bone.**
-* **Surgical removal:** consider surgical removal if the tooth is poorly positioned, has a curved root, or extraction is needed as part of the whole orthodontic treatment plan.
-* **Transplantation** of the tooth may be considered if interceptive treatment has failed and the tooth is in a very poor position. But this is usually if there are no other possible treatment options (if treatment has failed or is deemed inappropriate).
+
+#### 1. Leave and observe
+Impacted canines may be left in-situ. This is usually if the patient is happy or declines treatment, or the canine is severely ectopic. If this is the case, review bi-annually and warn the patient of potential complications. **Ideally, there should be good contact between the lateral incisor and first premolar, or the primary canine should have a good prognosis.**
+
+#### 2. Interceptive treatment
+The **deciduous canine is extracted** to allow for spontaneous eruption of the permanent successor.
+
+#### 3. Surgical exposure and orthodontic alignment
+When interceptive treatment has failed, **surgical exposure and orthodontic alignment** of the impacted canine may be the treatment of choice. **The NICE guidelines favour expose and bone.**
+
+#### 4. Surgical removal
+Consider surgical removal if the tooth is **poorly positioned**, has a **curved root**, or **extraction is needed as part of the whole orthodontic treatment plan**.
+
+#### 5. Transplantation
+Transplantation of the tooth may be considered if interceptive treatment has failed and the tooth is in a very poor position. But this is usually if there are **no other possible treatment options** (if treatment has failed or is deemed inappropriate).
 
 ---
 
