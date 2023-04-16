@@ -22,9 +22,9 @@ The general principles of management include the **provision of adequate space**
 The removal of obstructions such as supernumerary teeth or odontomes can facilitate the spontaneous eruption of permanent maxillary incisors. Spontaneous eruption is more likely if space exists in the dental arch to accommodate the unerupted incisor.
 
 #### Surgical intervention
-**Open exposure** of an unerupted permanent maxillary incisor is carried out by a simple elliptical incision of the overlying soft tissue. It is only **indicated if the tooth is very superficial**.
+**Open exposure** of an unerupted permanent maxillary incisor is carried out by a simple elliptical incision of the overlying soft tissue. **It is only indicated if the tooth is very superficial beneath the mucosa and a band of attached gingiva can be retained after exposure**. A band of gingiva is required so that the gingiva can form a healthy gingival attachment to the tooth when it is in its final position.
 
-**Closed exposure** is preferred, especially when the unerupted permanent maxillary incisor is **high**. In the closed technique, a mucoperiosteal flap is raised, and an attachment is bonded to the impacted incisor. 
+**Closed exposure** is preferred, especially when the unerupted permanent maxillary incisor is **high**. In the closed technique, a mucoperiosteal flap is raised, and an attachment is bonded to the impacted incisor.
 
 #### Incisor Removal
 Removal of the permanent maxillary incisor is considered when the tooth has significant dilaceration, ankylosis or infra-occlusion. Typically, space is maintained for a subsequent fixed or removable prosthesis.
