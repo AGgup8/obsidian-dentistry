@@ -1,4 +1,4 @@
-Odontogenic tumours are a group of neoplastic growths that originate from the [[ectoderm]] or [[ectomesenchyme]] tissues that are responsible for tooth formation and the periodontal apparatus of the jaw. Odontogenic tumours usually present as radiolucent defect, which makes diagnosis somewhat confusing while differentiating them from cysts. Although cystic lesions are surrounded by sclerotic borders, few odontogenic tumours share similar features.
+Odontogenic tumours are a group of neoplastic growths that originate from the ectoderm or ectomesenchyme tissues that are responsible for tooth formation and the periodontal apparatus of the jaw. Odontogenic tumours usually present as radiolucent defect, which makes diagnosis somewhat confusing while differentiating them from cysts. Although cystic lesions are surrounded by sclerotic borders, few odontogenic tumours share similar features.
 
 ## Epithelial without odontogenic ectomesenchyme
 

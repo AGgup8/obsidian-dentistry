@@ -11,8 +11,13 @@
             "id": "bb3bc37487d5e9be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prosthodontics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prosthodontics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prosthodontics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prosthodontics.md"
+              }
             }
           },
           {
@@ -148,8 +157,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc22499f250d0aef",
+  "active": "bb3bc37487d5e9be",
   "lastOpenFiles": [
+    "oral medicine/Odontogenic Tumours.md",
     "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
     "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
     "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
@@ -178,7 +188,6 @@
     "paediatric/Dental Trauma/Lateral Luxation.md",
     "paediatric/Dental Trauma/Avulsion.md",
     "paediatric/Dental Trauma/Subluxation.md",
-    "paediatric/Dental Trauma/Concussion.md",
     "endodontics",
     "periodontology",
     "general",

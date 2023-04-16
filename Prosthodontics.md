@@ -22,10 +22,10 @@ Prosthodontics is the replacement of teeth, hard tissues, and soft tissues with 
 [[Abutment]]
 [[Pontic]]
 [[Resin-Bonded Bridges]]
-[[Conventional Bridges]]
+Conventional Bridges
 
 ### Implants
-[[Implants]]
+Implants
 
 ## Removable Prosthodontics
 [[Removable Prosthodontics]]
@@ -45,9 +45,9 @@ The best indicator for success is the ridge. A wide, broad ridge provides the be
 ### Denture design
 [[Connectors]]
 [[Rests]]
-[[Guide Plane]]
+Guide Plane
 [[Proximal Plate]]
-[[Clasps]]
+Clasps
 
 # Labs
 
