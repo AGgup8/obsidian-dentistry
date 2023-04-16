@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prosthodontics.md",
+                "file": "summary pages/Prosthodontics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prosthodontics.md",
+                "file": "summary pages/Prosthodontics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prosthodontics.md",
+                "file": "summary pages/Prosthodontics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prosthodontics.md"
+                "file": "summary pages/Prosthodontics.md"
               }
             }
           },
@@ -157,8 +157,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb3bc37487d5e9be",
+  "active": "fc22499f250d0aef",
   "lastOpenFiles": [
+    "summary pages",
     "oral medicine/Odontogenic Tumours.md",
     "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
     "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
@@ -170,7 +171,7 @@
     "paediatric/Parallax Technique.md",
     "paediatric/Paediatric Soft Tissue Disease.md",
     "paediatric/Paediatric Periodontital Disease.md",
-    "Paediatric.md",
+    "summary pages/Paediatric.md",
     "paediatric/Dental Trauma",
     "paediatric/Abnormal Tooth Development and Malocclusions",
     "Complications.md",
@@ -187,7 +188,6 @@
     "paediatric/Dental Trauma/Intrusion Luxation.md",
     "paediatric/Dental Trauma/Lateral Luxation.md",
     "paediatric/Dental Trauma/Avulsion.md",
-    "paediatric/Dental Trauma/Subluxation.md",
     "endodontics",
     "periodontology",
     "general",
