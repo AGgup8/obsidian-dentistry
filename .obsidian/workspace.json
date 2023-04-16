@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prosthodontics.md",
+                "file": "Prosthodontics Summary.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prosthodontics.md",
+                "file": "Prosthodontics Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prosthodontics.md",
+                "file": "Prosthodontics Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prosthodontics.md"
+                "file": "Prosthodontics Summary.md"
               }
             }
           },
@@ -159,45 +159,45 @@
   },
   "active": "fc22499f250d0aef",
   "lastOpenFiles": [
+    "Paediatrics Summary.md",
+    "Prosthodontics Summary.md",
     "summary pages",
     "oral medicine/Odontogenic Tumours.md",
-    "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
-    "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
-    "paediatric/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
-    "paediatric/Dental Trauma.md",
-    "paediatric/Molar Incisor Hypomineralisation.md",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
+    "paediatrics/Dental Trauma.md",
+    "paediatrics/Molar Incisor Hypomineralisation.md",
     "oral surgery/Bleeding Disorders.md",
-    "paediatric/Abnormal Tooth Development and Malocclusions.md",
-    "paediatric/Parallax Technique.md",
-    "paediatric/Paediatric Soft Tissue Disease.md",
-    "paediatric/Paediatric Periodontital Disease.md",
-    "Paediatric.md",
-    "paediatric/Dental Trauma",
-    "paediatric/Abnormal Tooth Development and Malocclusions",
+    "paediatrics/Abnormal Tooth Development and Malocclusions.md",
+    "paediatrics/Parallax Technique.md",
+    "paediatrics/Paediatric Soft Tissue Disease.md",
+    "paediatrics/Paediatric Periodontital Disease.md",
+    "paediatrics/Dental Trauma",
+    "paediatrics/Abnormal Tooth Development and Malocclusions",
     "Complications.md",
     "endodontics/External Resorption.md",
-    "paediatric/Abnormal Tooth Development and Malocclusions/Dental Ankylosis.md",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Dental Ankylosis.md",
     "oral medicine/Cysts.md",
     "endodontics/Internal Resorption.md",
     "endodontics/Internal Replacement Resorption.md",
     "endodontics/Internal Inflammatory Resorption.md",
     "oral medicine/Facial Rashes.md",
-    "paediatric/Dental Trauma/Dental Trauma to the Primary Dentition.md",
+    "paediatrics/Dental Trauma/Dental Trauma to the Primary Dentition.md",
     "oral surgery",
-    "paediatric/Dental Trauma/Extrusion Luxation.md",
-    "paediatric/Dental Trauma/Intrusion Luxation.md",
-    "paediatric/Dental Trauma/Lateral Luxation.md",
-    "paediatric/Dental Trauma/Avulsion.md",
+    "paediatrics/Dental Trauma/Extrusion Luxation.md",
+    "paediatrics/Dental Trauma/Intrusion Luxation.md",
+    "paediatrics/Dental Trauma/Lateral Luxation.md",
+    "paediatrics/Dental Trauma/Avulsion.md",
     "endodontics",
     "periodontology",
     "general",
-    "paediatric",
+    "paediatrics",
     "oral medicine",
     "Dentigerous cyst.png",
     "prosthodontics/Complete Palatal Connector.png",
     "prosthodontics/Ante's Law.png",
     "netlify.toml",
-    "Prosthodontics/1. Prosthodontics.html",
     "prosthodontics/Horseshow Connector.png",
     "prosthodontics/Curve of Wilson.png",
     "prosthodontics/Curve of Spee.png",

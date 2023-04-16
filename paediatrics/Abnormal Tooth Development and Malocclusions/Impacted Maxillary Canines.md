@@ -25,7 +25,7 @@ Radiographs should be taken when:
 * It may also be useful to take a radiograph in cases where there is delayed eruption of the lateral incisor or if there is a significant buccal proclination
 * Radiographic procedures prior to the age of 10–11 years are usually of little benefit in terms of the knowledge gained
 
-Radiographs using the **[[parallax technique]]** is an effective method of identifying the position of maxillary impacted canines. Research has shown that the horizontal parallax technique (upper standard occlusal and periapical, or two periapicals) is more reliable than vertical parallax in localising unerupted canines.
+Radiographs using the **[[Parallax Technique]]** is an effective method of identifying the position of maxillary impacted canines. Research has shown that the horizontal parallax technique (upper standard occlusal and periapical, or two periapicals) is more reliable than vertical parallax in localising unerupted canines.
 
 Cone Beam Computed Tomography (CBCT) scans can also be very useful in identification and localisation of an impacted maxillary canine, along with the presence/absence of **root resorption of adjacent teeth**.
 

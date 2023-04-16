@@ -1,6 +1,6 @@
-[[Oral Medicine]]
+[[Oral Medicine Summary]]
 
-[[Paediatric]]
+[[Paediatrics Summary]]
 
-[[Prosthodontics]]
+[[Prosthodontics Summary]]
 
