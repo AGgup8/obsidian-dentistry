@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "50973301083ac83d",
+        "id": "08765be9748405b7",
         "type": "tabs",
         "children": [
           {
-            "id": "bb3bc37487d5e9be",
+            "id": "fd4c50298eba78fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prosthodontics Summary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "panavia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prosthodontics Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prosthodontics Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prosthodontics Summary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,38 +148,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc22499f250d0aef",
+  "active": "fd4c50298eba78fe",
   "lastOpenFiles": [
+    "paediatrics/Abnormal Tooth Development.md",
     "Paediatrics Summary.md",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Dental Ankylosis.md",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
+    "paediatrics/Molar Incisor Hypomineralisation.md",
+    "paediatrics/Dental Trauma.md",
+    "paediatrics/Paediatric Periodontal Disease.md",
+    "Paediatric Soft Tissue Disease.md",
+    "paediatrics/Paediatric Soft Tissue Disease.md",
+    "prosthodontics/Shade Selection.md",
+    "Replacing Failing Restoration.md",
+    "prosthodontics/Resin-Bonded Bridges.md",
+    "prosthodontics/Bridges.md",
     "Prosthodontics Summary.md",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
     "summary pages",
     "oral medicine/Odontogenic Tumours.md",
-    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
-    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
-    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
-    "paediatrics/Dental Trauma.md",
-    "paediatrics/Molar Incisor Hypomineralisation.md",
     "oral surgery/Bleeding Disorders.md",
-    "paediatrics/Abnormal Tooth Development and Malocclusions.md",
     "paediatrics/Parallax Technique.md",
-    "paediatrics/Paediatric Soft Tissue Disease.md",
-    "paediatrics/Paediatric Periodontital Disease.md",
     "paediatrics/Dental Trauma",
     "paediatrics/Abnormal Tooth Development and Malocclusions",
     "Complications.md",
     "endodontics/External Resorption.md",
-    "paediatrics/Abnormal Tooth Development and Malocclusions/Dental Ankylosis.md",
     "oral medicine/Cysts.md",
     "endodontics/Internal Resorption.md",
     "endodontics/Internal Replacement Resorption.md",
     "endodontics/Internal Inflammatory Resorption.md",
     "oral medicine/Facial Rashes.md",
-    "paediatrics/Dental Trauma/Dental Trauma to the Primary Dentition.md",
     "oral surgery",
-    "paediatrics/Dental Trauma/Extrusion Luxation.md",
-    "paediatrics/Dental Trauma/Intrusion Luxation.md",
-    "paediatrics/Dental Trauma/Lateral Luxation.md",
-    "paediatrics/Dental Trauma/Avulsion.md",
     "endodontics",
     "periodontology",
     "general",

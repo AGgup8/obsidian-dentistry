@@ -1,5 +1,12 @@
 A fixed partial denture that is luted to tooth structures, primarily enamel, which has been etched to provide micromechanical retention for the resin luting agent.
 
+## Considerations
+Adequate space
+Tilting and movement of adjacent teeth
+Selecting the abutment tooth
+Translucency of the abutment tooth
+
+
 ## Components
 The retainer of a resin-bonded bridge is usually called a **wing**. It is usually made of nickel-chromium or cobalt-chromium alloys and sandblasted with 50 microns alumina.
 

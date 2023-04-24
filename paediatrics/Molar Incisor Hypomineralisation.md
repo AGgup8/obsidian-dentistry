@@ -4,7 +4,6 @@ Molar incisor hypomineralisation (MIH) is defined as '*hypomineralisation of sys
 MIH is thought to be caused by a **disturbance to amelogenesis during the third trimester of pregnancy or within the first three years of life** by systemic factors such as acute or chronic illness or exposure to environmental pollutants.
 
 ## Clinical features
-
 Although MIH typically involves **one or more first permanent molars**, with or without incisor involvement, it is now thought that the lesions can affect any primary or permanent tooth. 
 
 * **Hypomineralised and white, creamy, yellow or brown lesions**
@@ -13,7 +12,6 @@ Although MIH typically involves **one or more first permanent molars**, with or 
 MIH is also thought to be associated with hypomineralised second primary molars and lesions of the tips of permanent canines.
 
 ## Differential diagnosis
-
 **Fluorosis**
 Fluorosis lesions have a bilateral symmetrical pattern, unlike MIH which has asymmetrical lesions.
 

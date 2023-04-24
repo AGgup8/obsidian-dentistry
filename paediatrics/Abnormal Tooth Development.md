@@ -1,10 +1,8 @@
-Hyperdontia and supernumerary teeth
-
-[[Dental Ankylosis]]
-
-Ectopic eruption
+Supernumerary teeth
 
 [[Impacted Teeth]]
+
+[[Dental Ankylosis]]
 
 Hypodontia
 
