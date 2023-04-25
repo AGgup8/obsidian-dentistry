@@ -11,11 +11,30 @@
             "id": "fd4c50298eba78fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Orthodontics Summary.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c97178fd798f9296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "orthodontics/Class III Malocclusion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "orthodontics/Class III Malocclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "orthodontics/Class III Malocclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "orthodontics/Class III Malocclusion.md"
+              }
             }
           },
           {
@@ -148,8 +171,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd4c50298eba78fe",
+  "active": "c97178fd798f9296",
   "lastOpenFiles": [
+    "Orthodontics Summary.md",
+    "orthodontics/Class III Malocclusion.md",
+    "orthodontics/Class II Div 2 Malocclusion.md",
+    "orthodontics/Crowding.md",
+    "orthodontics/Overjet.md",
+    "orthodontics/Class II Div 1 Malocclusion.md",
+    "orthodontics/Index of Orthodontic Treatment Need (IOTN).md",
+    "orthodontics",
     "paediatrics/Abnormal Tooth Development.md",
     "Paediatrics Summary.md",
     "paediatrics/Abnormal Tooth Development and Malocclusions/Dental Ankylosis.md",
@@ -172,13 +203,6 @@
     "paediatrics/Parallax Technique.md",
     "paediatrics/Dental Trauma",
     "paediatrics/Abnormal Tooth Development and Malocclusions",
-    "Complications.md",
-    "endodontics/External Resorption.md",
-    "oral medicine/Cysts.md",
-    "endodontics/Internal Resorption.md",
-    "endodontics/Internal Replacement Resorption.md",
-    "endodontics/Internal Inflammatory Resorption.md",
-    "oral medicine/Facial Rashes.md",
     "oral surgery",
     "endodontics",
     "periodontology",
@@ -188,7 +212,6 @@
     "Dentigerous cyst.png",
     "prosthodontics/Complete Palatal Connector.png",
     "prosthodontics/Ante's Law.png",
-    "netlify.toml",
     "prosthodontics/Horseshow Connector.png",
     "prosthodontics/Curve of Wilson.png",
     "prosthodontics/Curve of Spee.png",
