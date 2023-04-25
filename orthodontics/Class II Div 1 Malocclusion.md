@@ -11,10 +11,9 @@
 * **Habits:** digit sucking
 
 ## Management
-**The three O's:**
 1. ***O*rthopaedic growth modification:** twin-block functional appliances, headgear.
 2. ***O*rthodontic alignment:** fixed edgewise appliance.
 3. ***O*rthognathic surgery:** if severe skeletal discrepancies, poor facial appearance and facial growth is complete.
 
-Followed by long-term retention, usually with a passive removable appliance (Essex retainers).
+Followed by long-term retention, usually with a passive removable appliance (Essix retainers).
 

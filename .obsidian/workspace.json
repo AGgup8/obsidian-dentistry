@@ -4,36 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "08765be9748405b7",
+        "id": "17de70fc0082fcb6",
         "type": "tabs",
         "children": [
           {
-            "id": "fd4c50298eba78fe",
+            "id": "ca58934e799a925a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Orthodontics Summary.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "c97178fd798f9296",
+            "id": "15931093a403e8cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "orthodontics/Class III Malocclusion.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orthodontics Summary.md",
+                "file": "orthodontics/Class III Malocclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orthodontics Summary.md",
+                "file": "orthodontics/Class III Malocclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orthodontics Summary.md"
+                "file": "orthodontics/Class III Malocclusion.md"
               }
             }
           },
@@ -170,17 +171,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd4c50298eba78fe",
+  "active": "15931093a403e8cc",
   "lastOpenFiles": [
-    "Paediatrics Summary.md",
-    "paediatrics/Molar Incisor Hypomineralisation.md",
-    "orthodontics/Class III Malocclusion.md",
     "Orthodontics Summary.md",
     "orthodontics/Class II Div 2 Malocclusion.md",
+    "orthodontics/Class II Div 1 Malocclusion.md",
+    "orthodontics/Class III Malocclusion.md",
+    "orthodontics/Class I Occlusion.md",
+    "orthodontics/Index of Orthodontic Treatment Need (IOTN).md",
+    "Paediatrics Summary.md",
+    "paediatrics/Molar Incisor Hypomineralisation.md",
     "orthodontics/Crowding.md",
     "orthodontics/Overjet.md",
-    "orthodontics/Class II Div 1 Malocclusion.md",
-    "orthodontics/Index of Orthodontic Treatment Need (IOTN).md",
     "orthodontics",
     "paediatrics/Abnormal Tooth Development.md",
     "paediatrics/Abnormal Tooth Development and Malocclusions/Dental Ankylosis.md",
@@ -199,7 +201,6 @@
     "summary pages",
     "oral medicine/Odontogenic Tumours.md",
     "oral surgery/Bleeding Disorders.md",
-    "paediatrics/Parallax Technique.md",
     "paediatrics/Dental Trauma",
     "paediatrics/Abnormal Tooth Development and Malocclusions",
     "oral surgery",

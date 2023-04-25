@@ -11,13 +11,14 @@
 * **Soft tissue:** competent lips and a high lip line which rests on the cervical line of the upper incisors, retrusive lips.
 
 ## Management
-The three O's:
-1. ***O*rthopaedic growth modification:** reverse headgear if there is a skeletal discrepancy. 
+1. ***O*rthopaedic growth modification:**
+	* prevent unfavourable growth - *reverse headgear* 
+	* reduce overbite and allow forward movement of upper incisors - *ARAB appliance, posterior bite plane*
 2. ***O*rthodontic alignment:**
-	* Extractions in the lower arch to retract the labial segment
-	* Extractions in the upper arch due to crowding
-	* Fixed edgewise appliance
+	* retract lower labial segment - *extractions in the lower arch*
+	* upper crowding - *extractions in the upper arch*
+	* alignment and increase overbite for post-treatment stability - *fixed edgewise appliance*
 3. ***O*rthognathic surgery:** if moderate-severe skeletal discrepancies, poor facial appearance and facial growth is complete. Class III malocclusions are prone to relapse if the patient has not stopped growing, because mandibular growth continues into adolescent growth.
 
-Followed by long-term retention, usually with a passive removable appliance (Essex retainers).
+A **positive overjet and overbite will ensure post-treatment stability,** so retention may not be required. However, retention can prevent recurrence of crowding and rotations, especially as further permanent teeth erupt. 
 

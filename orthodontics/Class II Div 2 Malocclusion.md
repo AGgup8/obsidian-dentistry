@@ -10,10 +10,9 @@
 * **Soft tissue:** competent lips and a high lip line which rests on the cervical line of the upper incisors, retrusive lips
 
 ## Management
-The three O's:
 1. ***O*rthopaedic growth modification:** flat anterior bite plane, functional appliance (to reduce overbite).
 2. ***O*rthodontic alignment:** extractions are usually avoided for division 2 malocclusions because it can cause retroclination of the labial segments which complicates overbite reduction, fixed edgewise appliance, proclination of the labial segments, and true incisor intrusion (to reduce overbite).
 3. ***O*rthognathic surgery:** if severe skeletal discrepancies, poor facial appearance and facial growth is complete.
 
-Followed by long-term retention, usually with a passive removable appliance (Essex retainers).
+Followed by long-term retention, usually with a passive removable appliance (Essix retainers).
 

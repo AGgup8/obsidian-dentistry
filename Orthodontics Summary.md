@@ -28,8 +28,8 @@ It can be helpful to learn orthodontics by thinking of an orthodontic assessment
 Classify the skeletal, incisor and molar relationships. Skeletal relationships are associated with the same class incisor and molars relationship, e.g. a patient with a class II skeletal anterior-posterior relationship is more likely to have class II incisor and class II molar relationships.
 
 The different classes are associated with different soft tissue and key dental features:
-1. **Class I:** crowding, crossbite with or without displacement, open bite
-2. **[[Class II Div 1 Malocclusion|Class II div 1]]:** [[crowding]], increased [[Overjet|overjet]], lip trap, reduced lip overlap
+1. **[[Class I Occlusion|Class I]]:** [[crowding]], crossbite with or without displacement, open bite
+2. **[[Class II Div 1 Malocclusion|Class II div 1]]:** crowding, increased [[Overjet|overjet]], lip trap, reduced lip overlap
 3. **[[Class II Div 2 Malocclusion|Class II div 2]]:** crowding, reduced overjet, increased or complete overbite
 4. **[[Class III Malocclusion|Class III]]:** reduced overjet, anterior crossbite,
 
