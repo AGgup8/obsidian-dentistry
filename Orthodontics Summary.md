@@ -13,6 +13,7 @@ It can be helpful to learn orthodontics by thinking of an orthodontic assessment
 
 ### Soft Tissues
 * **Lips:** protrusion, competence, morphology, incisal show at rest (lip line)
+* **Tongue:** size, posture, tongue thrust
 
 ## Intra-Oral: Intra-Arch and Inter-Arch
 

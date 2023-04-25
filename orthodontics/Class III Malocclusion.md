@@ -13,7 +13,7 @@
 ## Management
 1. ***O*rthopaedic growth modification:**
 	* prevent unfavourable growth - *reverse headgear* 
-	* reduce overbite and allow forward movement of upper incisors - *ARAB appliance, posterior bite plane*
+	* reduce overbite and allow forward movement of upper incisors - *upper removable appliance, posterior bite plane*
 2. ***O*rthodontic alignment:**
 	* retract lower labial segment - *extractions in the lower arch*
 	* upper crowding - *extractions in the upper arch*
