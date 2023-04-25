@@ -12,13 +12,13 @@ It can be helpful to learn orthodontics by thinking of an orthodontic assessment
 * **Transverse:** Mid-eyebrow - Tip of nose - Philtrum of upper lip - Chin point
 
 ### Soft Tissues
-* **Lips:** morphology, competence, at function, overlap over incisors / incisor display at rest
+* **Lips:** protrusion, competence, morphology, incisal show at rest (lip line)
 
 ## Intra-Oral: Intra-Arch and Inter-Arch
 
 ### Intra-Arch
 * **Alignment:** rotations
-* **[[Crowding]] and spacing:** mild, moderate, severe
+* **[[Crowding]] and spacing:** mild, moderate, severe, generalised, localised, midline diastema
 * **Angulation**
 * **Inclination:** proclined, normal, retroclined
 
@@ -29,14 +29,22 @@ Classify the skeletal, incisor and molar relationships. Skeletal relationships a
 
 The different classes are associated with different soft tissue and key dental features:
 1. **[[Class I Occlusion|Class I]]:** [[crowding]], crossbite with or without displacement, open bite
-2. **[[Class II Div 1 Malocclusion|Class II div 1]]:** crowding, increased [[Overjet|overjet]], lip trap, reduced lip overlap
-3. **[[Class II Div 2 Malocclusion|Class II div 2]]:** crowding, reduced overjet, increased or complete overbite
-4. **[[Class III Malocclusion|Class III]]:** reduced overjet, anterior crossbite,
+2. **[[Class II Div 1 Malocclusion|Class II div 1]]:** mandibular crowding, increased [[Overjet|overjet]], lip trap, reduced lip overlap
+3. **[[Class II Div 2 Malocclusion|Class II div 2]]:** maxillary crowding, reduced overjet, increased or complete [[Overbite|overbite]]
+4. **[[Class III Malocclusion|Class III]]:** maxillary crowding, anterior crossbite, reduced overjet
 
 ### Key Dental Features
 Think of key dental features by using the Dental Health component of [[Index of Orthodontic Treatment Need (IOTN)|IOTN]]:
 * **M**issing teeth
-* **O**verbite
+* **O:** [[Overbite]]
 * **C**rossbite
 * **D**isplacement
 * **O:** [[Overjet]]
+
+### "Normal" Malocclusions
+**Ugly duckling stage:** A normal stage of dental development prior to the eruption of the maxillary canines. It is characterized by a midline space between the upper central incisors due to the eruption of the permanent canines. This stage is self-correcting and does not require treatment.
+
+## Orthodontic Diagnostic Summary
+1. **Patient:** name, age of patient and concern  
+2. **Malocclusion:** skeletal, and incisor, canine and molar relationships  
+3. **Key dental features:** ***m***issing teeth, ***o***verjet, ***c***rossbites, ***d***isplacement, ***o***verbite

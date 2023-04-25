@@ -1,4 +1,4 @@
-The IOTN is used to assess the need and eligibility of children under the age of 18 years old for NHS orthodontic treatment. 
+The Index of Orthodontic Treatment Need (IOTN) is used to assess the need and eligibility of children under the age of 18 years old for NHS orthodontic treatment. 
 
 IOTN has two components: **Dental Health Component** and **Aesthetic Component**.
 

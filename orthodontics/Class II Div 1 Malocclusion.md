@@ -2,7 +2,7 @@
 * **Skeletal:** the mandible is in a retruded position in relation to the mid-facial skeleton  (usually **moderate-severe** in division 1 malocclusions).
 * **Incisor:** incisal edge of the lower incisor is **posterior** to the cingulum plateau of the upper incisor, and the upper incisors are **proclined**.
 * **Canine:** the maxillary canine is positioned in front of the gap between the mandibular canine and first premolar.
-* **Molar:** mesio-palatal cusp of the maxillary first molar is **anterior** to the mid-buccal groove of the mandibular first molar.
+* **Molar:** mesio-palatal cusp of the maxillary first molar occludes **anterior** to the mid-buccal groove of the mandibular first molar.
 
 ## Aetiology
 * **Skeletal:** moderate-severe mandibular retrognathia
