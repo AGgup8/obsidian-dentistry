@@ -39,4 +39,4 @@ Think of key dental features by using the Dental Health component of [[Index of 
 * **O**verbite
 * **C**rossbite
 * **D**isplacement
-* **O: **[[Overjet]]
+* **O:** [[Overjet]]

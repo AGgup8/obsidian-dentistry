@@ -72,3 +72,8 @@ Large enamel defects with exposed dentine or chipped enamel
 
 **Porcelain veneers**
 Only indicated for **patients aged 18+** when the gingival margin has matured
+
+---
+
+Sources:
+https://www.nature.com/articles/sj.bdj.2018.814
