@@ -11,4 +11,4 @@ Molar incisor hypomineralisation (MIH) is a common developmental enamel defect t
 Dental trauma is a physical injury to the teeth, gums, or supporting bone. You need to learn the up-to-date [IADT treatment guidelines](https://www.dentaltrauma.co.uk/Guidelines.aspx) for each type of trauma, as well as the positive and negative outcomes of trauma.
 
 ## [[Abnormal Tooth Development]]
-The most important abnormalities to know are supernumerary teeth, and impacted and ectopic teeth. You need to know the incidence, aetiology, potential complications and management for supernumeraries, and impacted and ectopic teeth. Learn the guidelines from the [Royal College of Surgeons of England](https://www.rcseng.ac.uk/dental-faculties/fds/publications-guidelines/clinical-guidelines/).
+The most important abnormalities to know are supernumerary teeth and impacted and ectopic teeth. You need to know the incidence, aetiology, potential complications and management for supernumeraries, and impacted and ectopic teeth. Learn the guidelines from the [Royal College of Surgeons of England](https://www.rcseng.ac.uk/dental-faculties/fds/publications-guidelines/clinical-guidelines/).

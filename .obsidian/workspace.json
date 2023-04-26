@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "f8a3d33ca4b63a8d",
+        "id": "5358fc6aa6a312a4",
         "type": "tabs",
         "children": [
           {
-            "id": "50718dfb6bd5d370",
+            "id": "74dfa65403ccc054",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paediatrics/Dental Trauma/Avulsion.md",
+                "file": "Paediatrics Summary.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "33ddafb2170f9389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paediatrics/Molar Incisor Hypomineralisation.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "92591ef89794e930",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paediatrics/Dental Trauma/Avulsion.md",
+                "file": "paediatrics/Molar Incisor Hypomineralisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paediatrics/Dental Trauma/Avulsion.md",
+                "file": "paediatrics/Molar Incisor Hypomineralisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paediatrics/Dental Trauma/Avulsion.md"
+                "file": "paediatrics/Molar Incisor Hypomineralisation.md"
               }
             }
           },
@@ -159,10 +172,13 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "50718dfb6bd5d370",
+  "active": "33ddafb2170f9389",
   "lastOpenFiles": [
-    "orthodontics/Class III Malocclusion.md",
+    "Paediatrics Summary.md",
+    "paediatrics/Dental Trauma.md",
+    "paediatrics/Paediatric Periodontal Disease.md",
     "paediatrics/Dental Trauma/Avulsion.md",
+    "orthodontics/Class III Malocclusion.md",
     "orthodontics/Class II Div 1 Malocclusion.md",
     "Orthodontics Summary.md",
     "orthodontics/Crowding.md",
@@ -171,14 +187,11 @@
     "orthodontics/Index of Orthodontic Treatment Need (IOTN).md",
     "orthodontics/Class II Div 2 Malocclusion.md",
     "orthodontics/Class I Occlusion.md",
-    "Paediatrics Summary.md",
     "paediatrics/Molar Incisor Hypomineralisation.md",
     "orthodontics",
     "paediatrics/Abnormal Tooth Development.md",
     "paediatrics/Abnormal Tooth Development and Malocclusions/Dental Ankylosis.md",
     "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
-    "paediatrics/Dental Trauma.md",
-    "paediatrics/Paediatric Periodontal Disease.md",
     "Paediatric Soft Tissue Disease.md",
     "paediatrics/Paediatric Soft Tissue Disease.md",
     "prosthodontics/Shade Selection.md",

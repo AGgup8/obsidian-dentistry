@@ -1,4 +1,4 @@
-*Avulsion is the complete displacement of the tooth out of the socket.*
+Avulsion is the complete displacement of the tooth out of the socket.
 
 ## Primary Teeth
 1. Take baseline periapical or occlusal baseline radiographs. It is essential when the primary tooth is not brought into the clinic to **ensure that the missing tooth has not been intruded**. The radiograph will also provide a baseline for **assessment of the developing permanent tooth** and to determine whether it has been displaced.
@@ -8,7 +8,7 @@
 
 Unfavourable outcomes include a negative impact on the development or eruption of the permanent successor.
 
-## Permanent Teeth With Closed Apex
+## Permanent Teeth
 Prolonged extra-oral dry time and delayed reimplantation have a poor long-term prognosis because the periodontal ligament cells on the tooth become necrotic and cannot regenerate. if the PDL becomes necrotic, the expected outcome is [[External Resorption|replacement root resorption]].
 
 However, **permanent teeth should always be reimplanted**, even with an extra-oral dry time of >60 minutes, to **restore aesthetics and function and increase future treatment options**. The tooth can be extracted later at a more appropriate time. Patients should be warned of the risk of [[Dental Ankylosis|ankylosis]] and infraocclusion.

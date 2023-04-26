@@ -15,7 +15,7 @@ The most common teeth affected by dental trauma are the **maxillary central inci
 * **Tender to percussion:** +ve TTP might suggest periapical pathology
 * **Radiographic:** Periapical radiolucency, closed or open apex
 
-## Types of trauma
+## Types of Trauma
 The severity of dental trauma can vary widely, ranging from minor chips or cracks in the teeth to more serious injuries that may require extensive treatment, such as root canal therapy or tooth extraction.
 
 ### Fractures
