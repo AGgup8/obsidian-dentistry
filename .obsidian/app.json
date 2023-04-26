@@ -171,7 +171,9 @@
     "retroclination",
     "retrusion",
     "letal discrep",
-    "diastema"
+    "diastema",
+    "infraocclusion",
+    "ankylosis-related"
   ],
   "pdfExportSettings": {
     "includeName": true,

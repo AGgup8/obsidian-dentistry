@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthodontics/Class III Malocclusion.md",
+                "file": "paediatrics/Dental Trauma/Avulsion.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "92591ef89794e930",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "orthodontics/Class III Malocclusion.md",
+                "file": "paediatrics/Dental Trauma/Avulsion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "orthodontics/Class III Malocclusion.md",
+                "file": "paediatrics/Dental Trauma/Avulsion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "orthodontics/Class III Malocclusion.md"
+                "file": "paediatrics/Dental Trauma/Avulsion.md"
               }
             }
           },
@@ -154,18 +155,20 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
   "active": "50718dfb6bd5d370",
   "lastOpenFiles": [
+    "orthodontics/Class III Malocclusion.md",
+    "paediatrics/Dental Trauma/Avulsion.md",
     "orthodontics/Class II Div 1 Malocclusion.md",
     "Orthodontics Summary.md",
     "orthodontics/Crowding.md",
     "orthodontics/Overjet.md",
     "orthodontics/Overbite.md",
     "orthodontics/Index of Orthodontic Treatment Need (IOTN).md",
-    "orthodontics/Class III Malocclusion.md",
     "orthodontics/Class II Div 2 Malocclusion.md",
     "orthodontics/Class I Occlusion.md",
     "Paediatrics Summary.md",
@@ -186,7 +189,6 @@
     "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
     "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
     "summary pages",
-    "oral medicine/Odontogenic Tumours.md",
     "paediatrics/Dental Trauma",
     "paediatrics/Abnormal Tooth Development and Malocclusions",
     "oral surgery",
