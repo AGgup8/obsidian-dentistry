@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74dfa65403ccc054",
+            "id": "bf74f036414f8787",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paediatrics Summary.md",
+                "file": "Fixed Pros Revision Lecture Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "33ddafb2170f9389",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paediatrics/Molar Incisor Hypomineralisation.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "92591ef89794e930",
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paediatrics/Molar Incisor Hypomineralisation.md",
+                "file": "Fixed Pros Revision Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paediatrics/Molar Incisor Hypomineralisation.md",
+                "file": "Fixed Pros Revision Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paediatrics/Molar Incisor Hypomineralisation.md"
+                "file": "Fixed Pros Revision Lecture Notes.md"
               }
             }
           },
@@ -172,8 +159,11 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "33ddafb2170f9389",
+  "active": "bf74f036414f8787",
   "lastOpenFiles": [
+    "Home.md",
+    "Fixed Pros Revision Lecture Notes.md",
+    "paediatrics/Molar Incisor Hypomineralisation.md",
     "Paediatrics Summary.md",
     "paediatrics/Dental Trauma.md",
     "paediatrics/Paediatric Periodontal Disease.md",
@@ -187,7 +177,6 @@
     "orthodontics/Index of Orthodontic Treatment Need (IOTN).md",
     "orthodontics/Class II Div 2 Malocclusion.md",
     "orthodontics/Class I Occlusion.md",
-    "paediatrics/Molar Incisor Hypomineralisation.md",
     "orthodontics",
     "paediatrics/Abnormal Tooth Development.md",
     "paediatrics/Abnormal Tooth Development and Malocclusions/Dental Ankylosis.md",
@@ -199,8 +188,6 @@
     "prosthodontics/Resin-Bonded Bridges.md",
     "prosthodontics/Bridges.md",
     "Prosthodontics Summary.md",
-    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
-    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
     "summary pages",
     "paediatrics/Dental Trauma",
     "paediatrics/Abnormal Tooth Development and Malocclusions",
