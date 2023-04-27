@@ -27,6 +27,6 @@ In general, there is limited evidence to support many of the treatment options i
 ### Other types of traumatic injury
 [[Concussion]]
 [[Subluxation]]
-[[Extrusion Luxation]]
+[[Extrusion]]
 [[Lateral Luxation]]
-[[Intrusion Luxation]]
+[[Intrusion]]

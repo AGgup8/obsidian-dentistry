@@ -66,6 +66,6 @@ Other reasons include damage or a change in the shade of the porcelain or surrou
 
 ---
 
-Sources:
+**Sources:**
 
-[Resin bonded bridges: techniques for success (www.nature.com/articles/sj.bdj.2011.619)](https://www.nature.com/articles/sj.bdj.2011.619)
+Resin bonded bridges: techniques for success - www.nature.com/articles/sj.bdj.2011.619

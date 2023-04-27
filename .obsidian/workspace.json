@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3cf7527bacaae47c",
+        "id": "e99c50e59027ae14",
         "type": "tabs",
         "children": [
           {
-            "id": "e4fc9b8f20fc2600",
+            "id": "090e04d933cf7c47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "paediatrics/Dental Trauma.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "paediatrics/Dental Trauma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "paediatrics/Dental Trauma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "paediatrics/Dental Trauma.md"
+              }
             }
           },
           {
@@ -149,22 +158,28 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "fc22499f250d0aef",
+  "active": "090e04d933cf7c47",
   "lastOpenFiles": [
+    "paediatrics/Abnormal Tooth Development.md",
+    "paediatrics/Dental Trauma.md",
+    "paediatrics/Paediatric Periodontal Disease.md",
+    "periodontology/Non Plaque-Induced Gingival Disease.md",
+    "paediatrics/Extracting First Molars in Children.md",
+    "paediatrics/Molar Incisor Hypomineralisation.md",
+    "orthodontics/Parallax Technique.md",
+    "Orthodontics Summary.md",
+    "Paediatrics Summary.md",
+    "paediatrics/Dental Trauma/Avulsion.md",
+    "Oral Medicine Summary.md",
+    "prosthodontics/The Dahl Concept.md",
     "prosthodontics/Resin-Bonded Bridges.md",
     "Fixed Pros Revision Lecture Notes.md",
     "Prosthodontics Summary.md",
     "prosthodontics/Pontic.md",
     "prosthodontics/Abutment.md",
     "Home.md",
-    "paediatrics/Molar Incisor Hypomineralisation.md",
-    "Paediatrics Summary.md",
-    "paediatrics/Dental Trauma.md",
-    "paediatrics/Paediatric Periodontal Disease.md",
-    "paediatrics/Dental Trauma/Avulsion.md",
     "orthodontics/Class III Malocclusion.md",
     "orthodontics/Class II Div 1 Malocclusion.md",
-    "Orthodontics Summary.md",
     "orthodontics/Crowding.md",
     "orthodontics/Overjet.md",
     "orthodontics/Overbite.md",
@@ -172,12 +187,6 @@
     "orthodontics/Class II Div 2 Malocclusion.md",
     "orthodontics/Class I Occlusion.md",
     "orthodontics",
-    "paediatrics/Abnormal Tooth Development.md",
-    "paediatrics/Abnormal Tooth Development and Malocclusions/Dental Ankylosis.md",
-    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
-    "Paediatric Soft Tissue Disease.md",
-    "paediatrics/Paediatric Soft Tissue Disease.md",
-    "prosthodontics/Shade Selection.md",
     "summary pages",
     "paediatrics/Dental Trauma",
     "paediatrics/Abnormal Tooth Development and Malocclusions",

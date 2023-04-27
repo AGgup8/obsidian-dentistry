@@ -42,5 +42,5 @@ MIH is also thought to be associated with hypomineralised second primary molars 
 
 ---
 
-Sources:
-[Molar incisor hypomineralisation (MIH) – an overview (www.nature.com/articles/sj.bdj.2018.814)](https://www.nature.com/articles/sj.bdj.2018.814)
+**Sources:**
+1. BDJ 2018: Molar incisor hypomineralisation (MIH) – an overview - www.nature.com/articles/sj.bdj.2018.814

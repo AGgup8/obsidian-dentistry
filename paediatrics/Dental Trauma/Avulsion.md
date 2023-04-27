@@ -36,4 +36,10 @@ The next steps are the same whether the tooth was already implanted on arrival, 
 
 The management of a tooth with an open apex is the same as the management with a [[Avulsion#Permanent Teeth With Closed Apex|closed apex]]; however, root canal treatment is not always needed after reimplantation. The goal when replanting immature teeth is **pulp revascularization**, which can lead to **further root development**. **Endodontic treatment should not be initiated unless there are definite signs of pulp necrosis and infection.**
 
-If spontaneous pulp revascularization does not occur, carry out endodontic treatment as soon as pulp necrosis or infection is identified because [[External Resorption|inflammatory external resortion]] can occur very rapidly in children. 
+If spontaneous pulp revascularization does not occur, carry out endodontic treatment as soon as pulp necrosis or infection is identified because [[External Resorption|inflammatory external resortion]] can occur very rapidly in children.
+
+---
+
+**Sources:**
+
+IADT Guidelines 2020 - www.dentaltrauma.co.uk/Guidelines.aspx
