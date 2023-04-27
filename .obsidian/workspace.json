@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e99c50e59027ae14",
+        "id": "0bf906b8bb065ded",
         "type": "tabs",
         "children": [
           {
-            "id": "090e04d933cf7c47",
+            "id": "87d01c826401c9bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paediatrics/Dental Trauma.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "52a85ea15c84e864",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paediatrics/Fractures.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paediatrics/Fractures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paediatrics/Fractures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "paediatrics/Fractures.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,10 +149,10 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "52a85ea15c84e864",
+  "active": "87d01c826401c9bf",
   "lastOpenFiles": [
     "paediatrics/Dental Trauma.md",
-    "paediatrics/Fractures.md",
+    "paediatrics/Dental Trauma/Fractures.md",
     "paediatrics/Abnormal Tooth Development.md",
     "paediatrics/Paediatric Periodontal Disease.md",
     "periodontology/Non Plaque-Induced Gingival Disease.md",
