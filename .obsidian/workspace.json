@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5358fc6aa6a312a4",
+        "id": "3cf7527bacaae47c",
         "type": "tabs",
         "children": [
           {
-            "id": "bf74f036414f8787",
+            "id": "e4fc9b8f20fc2600",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fixed Pros Revision Lecture Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "92591ef89794e930",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fixed Pros Revision Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fixed Pros Revision Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fixed Pros Revision Lecture Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,10 +149,14 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "bf74f036414f8787",
+  "active": "fc22499f250d0aef",
   "lastOpenFiles": [
-    "Home.md",
+    "prosthodontics/Resin-Bonded Bridges.md",
     "Fixed Pros Revision Lecture Notes.md",
+    "Prosthodontics Summary.md",
+    "prosthodontics/Pontic.md",
+    "prosthodontics/Abutment.md",
+    "Home.md",
     "paediatrics/Molar Incisor Hypomineralisation.md",
     "Paediatrics Summary.md",
     "paediatrics/Dental Trauma.md",
@@ -184,10 +178,6 @@
     "Paediatric Soft Tissue Disease.md",
     "paediatrics/Paediatric Soft Tissue Disease.md",
     "prosthodontics/Shade Selection.md",
-    "Replacing Failing Restoration.md",
-    "prosthodontics/Resin-Bonded Bridges.md",
-    "prosthodontics/Bridges.md",
-    "Prosthodontics Summary.md",
     "summary pages",
     "paediatrics/Dental Trauma",
     "paediatrics/Abnormal Tooth Development and Malocclusions",
