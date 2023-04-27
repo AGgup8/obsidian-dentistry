@@ -29,7 +29,7 @@ The most common teeth affected by dental trauma are the **maxillary central inci
 ### 3. Carry out acute management
 
 #### Types of Trauma
-| Fractures                                                                   | Periodontal          | Oral Mucosa |
+| [[Fractures]]                                                               | Periodontal          | Oral Mucosa |
 | --------------------------------------------------------------------------- | -------------------- | ----------- |
 | Enamel infarction                                                           | [[Concussion]]       | Laceration  |
 | Uncomplicated crown fracture (enamel-only fracture)                         | [[Subluxation]]      | Contusion   |

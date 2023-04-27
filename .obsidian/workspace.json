@@ -14,13 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "paediatrics/Dental Trauma.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "52a85ea15c84e864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paediatrics/Fractures.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paediatrics/Dental Trauma.md",
+                "file": "paediatrics/Fractures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paediatrics/Dental Trauma.md",
+                "file": "paediatrics/Fractures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paediatrics/Dental Trauma.md"
+                "file": "paediatrics/Fractures.md"
               }
             }
           },
@@ -158,10 +172,11 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "090e04d933cf7c47",
+  "active": "52a85ea15c84e864",
   "lastOpenFiles": [
-    "paediatrics/Abnormal Tooth Development.md",
     "paediatrics/Dental Trauma.md",
+    "paediatrics/Fractures.md",
+    "paediatrics/Abnormal Tooth Development.md",
     "paediatrics/Paediatric Periodontal Disease.md",
     "periodontology/Non Plaque-Induced Gingival Disease.md",
     "paediatrics/Extracting First Molars in Children.md",
@@ -185,7 +200,6 @@
     "orthodontics/Overbite.md",
     "orthodontics/Index of Orthodontic Treatment Need (IOTN).md",
     "orthodontics/Class II Div 2 Malocclusion.md",
-    "orthodontics/Class I Occlusion.md",
     "orthodontics",
     "summary pages",
     "paediatrics/Dental Trauma",
