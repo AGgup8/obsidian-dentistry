@@ -8,7 +8,6 @@
 * **Genetic:** familial tendency
 * **Skeletal:** maxillary retrusion and mandibular prognathism, mandibular prognathism often becomes more pronounced during adolescent growth.
 * **Dental:** upright or retroclined maxillary incisors, crowding.
-* **Soft tissue:** competent lips and a high lip line which rests on the cervical line of the upper incisors, retrusive lips.
 
 ## Management
 1. ***O*rthopaedic growth modification:**

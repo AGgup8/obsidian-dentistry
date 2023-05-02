@@ -47,11 +47,11 @@ The best indicator for success is the ridge. A wide, broad ridge provides the be
 [[Rests]]
 Guide Plane
 [[Proximal Plate]]
-Clasps
+[[Clasps]]
 
 # Labs
 
 [[How to make a denture]]
 
 [[Impression Materials]]
-[[Plaster]]
+[[Plaster Materials]]

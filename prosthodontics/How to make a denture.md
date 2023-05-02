@@ -3,7 +3,7 @@
 Take primary impression in a hydrocolloid material (alginate).
 
 ### 2. Primary cast and Special trays
-For Cobalt-Chromium dentures, use **type III [[Plaster]] for the base** and **type IV plaster for dentate areas**.
+For Cobalt-Chromium dentures, use **type III [[Plaster Materials]] for the base** and **type IV plaster for dentate areas**.
 
 Create a special tray from the primary cast using **cold-cure or light-cure acrylic**.
 
@@ -20,11 +20,10 @@ For partial dentures, the baseplate is constructed in **cold-cure acrylic**. Bef
 For complete dentures, the baseplate is designed in **wax** on the cast, and it is sent to the lab so a **heat-cure acrylic base** can be constructed. It is important to mark the posterior palatal dam on the cast, so the upper denture has [[Retention]]. The lab will add occlusal rims to the heat-cure baseplate. Because the original cast is destroyed to make the heat-case base, make a **support cast** using the returned baseplate.
 
 ### 5. Jaw/Bite registration (3rd appointment)
-
-* Midline
-* Canines
-* Smile line
-* Interpupillary and mid tragus to mid alar lines parallel with occlusal plane - use foxe's occlusal plane
+- Midline
+- Canine lines
+- High smile line
+- Interpupillary and mid tragus to mid alar lines parallel with occlusal plane - use foxe's occlusal plane
 
 **Interocclusal Record and Facebow**
 Take an interocclusal record and facebow jig record, so the opposing casts can be mounted accurately on the articulator. An interocclusal record is not needed if ICP is **stable and reproducible** outside the mouth.

@@ -68,4 +68,5 @@ Other reasons include damage or a change in the shade of the porcelain or surrou
 
 **Sources:**
 
-Resin bonded bridges: techniques for success - www.nature.com/articles/sj.bdj.2011.619
+1. BDJ 2011: Resin bonded bridges: techniques for success - www.nature.com/articles/sj.bdj.2011.619
+2. BDJ 2013: A review of the success and failure characteristics of resin-bonded bridges - www.nature.com/articles/sj.bdj.2013.686

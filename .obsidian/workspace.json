@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0bf906b8bb065ded",
+        "id": "a4277a6835d3f3fa",
         "type": "tabs",
         "children": [
           {
-            "id": "87d01c826401c9bf",
+            "id": "e4468392d173ca68",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "paediatrics/Extracting First Molars in Children.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "panavia",
+                "query": "avulsion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "paediatrics/Extracting First Molars in Children.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "paediatrics/Extracting First Molars in Children.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "paediatrics/Extracting First Molars in Children.md"
+              }
             }
           },
           {
@@ -149,34 +158,38 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "87d01c826401c9bf",
+  "active": "e4468392d173ca68",
   "lastOpenFiles": [
     "paediatrics/Dental Trauma.md",
-    "paediatrics/Dental Trauma/Fractures.md",
     "paediatrics/Abnormal Tooth Development.md",
-    "paediatrics/Paediatric Periodontal Disease.md",
-    "periodontology/Non Plaque-Induced Gingival Disease.md",
     "paediatrics/Extracting First Molars in Children.md",
-    "paediatrics/Molar Incisor Hypomineralisation.md",
-    "orthodontics/Parallax Technique.md",
     "Orthodontics Summary.md",
-    "Paediatrics Summary.md",
-    "paediatrics/Dental Trauma/Avulsion.md",
-    "Oral Medicine Summary.md",
-    "prosthodontics/The Dahl Concept.md",
-    "prosthodontics/Resin-Bonded Bridges.md",
-    "Fixed Pros Revision Lecture Notes.md",
-    "Prosthodontics Summary.md",
-    "prosthodontics/Pontic.md",
-    "prosthodontics/Abutment.md",
-    "Home.md",
     "orthodontics/Class III Malocclusion.md",
+    "orthodontics/Class II Div 2 Malocclusion.md",
     "orthodontics/Class II Div 1 Malocclusion.md",
-    "orthodontics/Crowding.md",
+    "orthodontics/Parallax Technique.md",
     "orthodontics/Overjet.md",
     "orthodontics/Overbite.md",
     "orthodontics/Index of Orthodontic Treatment Need (IOTN).md",
-    "orthodontics/Class II Div 2 Malocclusion.md",
+    "orthodontics/Crowding.md",
+    "orthodontics/Class I Occlusion.md",
+    "paediatrics/Dental Trauma/Avulsion.md",
+    "Prosthodontics Mind Map.canvas",
+    "prosthodontics/How to make a denture.md",
+    "prosthodontics/Retention.md",
+    "Prosthodontics Summary.md",
+    "prosthodontics/Rests.md",
+    "prosthodontics/Proximal Plate.md",
+    "prosthodontics/Clasps.md",
+    "prosthodontics/Connector.md",
+    "prosthodontics/Resin-Bonded Bridges.md",
+    "prosthodontics/Abutment.md",
+    "Pasted image 20230428162120.png",
+    "Pasted image 20230428162115.png",
+    "dental materials/Ceramic Materials.md",
+    "dental materials",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
     "orthodontics",
     "summary pages",
     "paediatrics/Dental Trauma",
@@ -186,7 +199,6 @@
     "periodontology",
     "general",
     "paediatrics",
-    "oral medicine",
     "Dentigerous cyst.png",
     "prosthodontics/Complete Palatal Connector.png",
     "prosthodontics/Ante's Law.png",
@@ -194,8 +206,6 @@
     "prosthodontics/Curve of Wilson.png",
     "prosthodontics/Curve of Spee.png",
     "prosthodontics/Crown-to-Root Ratio.png",
-    "prosthodontics/Hue, chroma and value.png",
-    "prosthodontics/Lingual Plate Connector.png",
-    "prosthodontics/Lingual Bar Connector.png"
+    "prosthodontics/Hue, chroma and value.png"
   ]
 }

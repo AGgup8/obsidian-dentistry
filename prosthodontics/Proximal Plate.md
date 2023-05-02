@@ -1,1 +1,1 @@
-A proximal plate is the metal plate that contacts the proximal surface of an abutment tooth and engages with the guide plan
+A proximal plate is the metal plate that contacts the proximal surface of an abutment tooth and engages with the guide plan. Proximal plates provide **[[Stability|stability]]**.

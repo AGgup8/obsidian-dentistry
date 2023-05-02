@@ -1,5 +1,7 @@
 The abutment is the tooth to which the bridge attaches to. All teeth should be assessed before using them as abutments for bridges. Not all teeth should be used as abutments, and some have a better prognosis than others.  ^6e46e6
 
+###
+
 ### Endodontically treated teeth
 Endodontically treated teeth should be used as abutments because the removed dentine makes the tooth structure weaker.
 
