@@ -5,7 +5,7 @@ A compensating extraction is an extraction of the same tooth from the opposing q
 * Unless there is a clear occlusal requirement or the upper FPM will be unopposed for a long time.
 
 ## Balancing extractions
-A balancing extraction is the extraction of the same tooth from the opposite side of the same arch. For example, extraction of the LR6 is planned, so a compensating extraction would be the removal of the LL6.
+A balancing extraction is the extraction of the same tooth from the opposite side of the same arch. For example, extraction of the LR6 is planned, so a balancing extraction would be the removal of the LL6.
 
 * Routine balancing extraction of a sound FPM to preserve a dental centreline is not recommended unless part of a comprehensive [[Orthodontics Summary|orthodontic]] treatment plan.
 * If there is **severe** bilateral premolar crowding, consideration should be given to balancing extractions of contralateral FPMs.
@@ -20,7 +20,7 @@ Ideal timing of FPM extraction can only be achieved if:
 
 ### Upper arch
 * An unerupted SPM will generally achieve a good occlusal position following extraction of the compromised FPM.
-* If there is crowding in the upper arch or if space will be required for correction of a [[Class II Div 1 Malocclusion|Class II]] incisor relationship, consider temporising the FPM until the SPM erupts so the space can be used for orthodontic alignment.
+* If there is crowding in the upper arch or if space will be required for correction of a [[Class II Div 1 Malocclusion|Class II]] incisor relationship, consider temporising the FPM until the mandibular SPM erupts so the space can be used for orthodontic alignment. The lower SPM acts as an occlusal stop.
 
 ### Lower arch
 * In the lower arch, the occlusal outcome is more variable and the timing of FPM extraction is more critical to ensure successful eruption of the SPM.

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a4277a6835d3f3fa",
+        "id": "6875d498902baf77",
         "type": "tabs",
         "children": [
           {
-            "id": "e4468392d173ca68",
+            "id": "c3edb33d51f2126d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paediatrics/Extracting First Molars in Children.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paediatrics/Extracting First Molars in Children.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paediatrics/Extracting First Molars in Children.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "paediatrics/Extracting First Molars in Children.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +149,16 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "e4468392d173ca68",
+  "active": "c3edb33d51f2126d",
   "lastOpenFiles": [
-    "paediatrics/Dental Trauma.md",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Incisor.md",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
+    "paediatrics/Abnormal Tooth Development and Malocclusions/Dental Ankylosis.md",
     "paediatrics/Abnormal Tooth Development.md",
+    "paediatrics/Dental Trauma.md",
+    "paediatrics/Paediatric Periodontal Disease.md",
+    "paediatrics/Molar Incisor Hypomineralisation.md",
     "paediatrics/Extracting First Molars in Children.md",
     "Orthodontics Summary.md",
     "orthodontics/Class III Malocclusion.md",
@@ -181,15 +178,9 @@
     "prosthodontics/Rests.md",
     "prosthodontics/Proximal Plate.md",
     "prosthodontics/Clasps.md",
-    "prosthodontics/Connector.md",
-    "prosthodontics/Resin-Bonded Bridges.md",
-    "prosthodontics/Abutment.md",
     "Pasted image 20230428162120.png",
     "Pasted image 20230428162115.png",
-    "dental materials/Ceramic Materials.md",
     "dental materials",
-    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Maxillary Canines.md",
-    "paediatrics/Abnormal Tooth Development and Malocclusions/Impacted Teeth.md",
     "orthodontics",
     "summary pages",
     "paediatrics/Dental Trauma",
